@@ -1,0 +1,130 @@
+store_location,hour,+1,-1,hold,k
+Astoria,7,7,0,15,9
+Astoria,8,7,1,16,9
+Astoria,9,11,0,13,9
+Astoria,10,0,15,9,9
+Astoria,11,9,0,17,9
+Astoria,12,4,0,22,9
+Astoria,13,8,0,18,9
+Astoria,14,4,0,22,9
+Astoria,15,4,0,22,9
+Astoria,16,6,0,20,9
+Astoria,17,11,0,15,9
+Astoria,18,6,0,21,9
+Astoria,19,21,0,5,9
+Hell's Kitchen,6,16,0,0,9
+Hell's Kitchen,7,10,0,6,9
+Hell's Kitchen,8,22,0,4,9
+Hell's Kitchen,9,21,0,6,9
+Hell's Kitchen,10,0,19,8,9
+Hell's Kitchen,11,0,0,27,9
+Hell's Kitchen,12,0,0,27,9
+Hell's Kitchen,13,0,0,27,9
+Hell's Kitchen,14,0,0,27,9
+Hell's Kitchen,15,0,0,27,9
+Hell's Kitchen,16,0,0,27,9
+Hell's Kitchen,17,0,0,27,9
+Hell's Kitchen,18,0,0,27,9
+Hell's Kitchen,19,24,0,3,9
+Hell's Kitchen,20,6,0,0,9
+Lower Manhattan,6,7,0,8,9
+Lower Manhattan,7,23,0,4,9
+Lower Manhattan,8,24,0,3,9
+Lower Manhattan,9,23,0,4,9
+Lower Manhattan,10,0,26,1,9
+Lower Manhattan,11,0,0,27,9
+Lower Manhattan,12,0,0,27,9
+Lower Manhattan,13,0,0,26,9
+Lower Manhattan,14,0,0,26,9
+Lower Manhattan,15,0,0,26,9
+Lower Manhattan,16,0,0,26,9
+Lower Manhattan,17,0,0,26,9
+Lower Manhattan,18,26,0,0,9
+Lower Manhattan,19,3,0,0,9
+Lower Manhattan,20,2,0,0,9
+Astoria,7,1,0,21,11
+Astoria,8,2,0,22,11
+Astoria,9,10,0,14,11
+Astoria,10,0,10,14,11
+Astoria,11,8,0,18,11
+Astoria,12,2,0,24,11
+Astoria,13,5,0,21,11
+Astoria,14,3,0,23,11
+Astoria,15,2,0,24,11
+Astoria,16,4,0,22,11
+Astoria,17,8,0,18,11
+Astoria,18,6,0,21,11
+Astoria,19,19,0,7,11
+Hell's Kitchen,6,16,0,0,11
+Hell's Kitchen,7,9,0,7,11
+Hell's Kitchen,8,20,0,6,11
+Hell's Kitchen,9,21,0,6,11
+Hell's Kitchen,10,0,13,14,11
+Hell's Kitchen,11,0,0,27,11
+Hell's Kitchen,12,0,0,27,11
+Hell's Kitchen,13,0,0,27,11
+Hell's Kitchen,14,0,0,27,11
+Hell's Kitchen,15,0,0,27,11
+Hell's Kitchen,16,0,0,27,11
+Hell's Kitchen,17,0,0,27,11
+Hell's Kitchen,18,0,0,27,11
+Hell's Kitchen,19,19,0,8,11
+Hell's Kitchen,20,6,0,0,11
+Lower Manhattan,6,3,0,12,11
+Lower Manhattan,7,17,0,10,11
+Lower Manhattan,8,22,0,5,11
+Lower Manhattan,9,20,0,7,11
+Lower Manhattan,10,0,25,2,11
+Lower Manhattan,11,0,0,27,11
+Lower Manhattan,12,0,0,27,11
+Lower Manhattan,13,0,0,26,11
+Lower Manhattan,14,0,0,26,11
+Lower Manhattan,15,0,0,26,11
+Lower Manhattan,16,0,0,26,11
+Lower Manhattan,17,0,0,26,11
+Lower Manhattan,18,26,0,0,11
+Lower Manhattan,19,1,0,2,11
+Lower Manhattan,20,2,0,0,11
+Astoria,7,0,0,22,13
+Astoria,8,0,0,24,13
+Astoria,9,7,0,17,13
+Astoria,10,0,7,17,13
+Astoria,11,6,0,20,13
+Astoria,12,2,0,24,13
+Astoria,13,5,0,21,13
+Astoria,14,3,0,23,13
+Astoria,15,1,0,25,13
+Astoria,16,3,0,23,13
+Astoria,17,4,0,22,13
+Astoria,18,5,0,22,13
+Astoria,19,16,0,10,13
+Hell's Kitchen,6,16,0,0,13
+Hell's Kitchen,7,7,0,9,13
+Hell's Kitchen,8,18,0,8,13
+Hell's Kitchen,9,20,0,7,13
+Hell's Kitchen,10,0,9,18,13
+Hell's Kitchen,11,0,0,27,13
+Hell's Kitchen,12,0,0,27,13
+Hell's Kitchen,13,0,0,27,13
+Hell's Kitchen,14,0,0,27,13
+Hell's Kitchen,15,0,0,27,13
+Hell's Kitchen,16,0,0,27,13
+Hell's Kitchen,17,0,0,27,13
+Hell's Kitchen,18,0,0,27,13
+Hell's Kitchen,19,16,0,11,13
+Hell's Kitchen,20,6,0,0,13
+Lower Manhattan,6,0,0,15,13
+Lower Manhattan,7,12,0,15,13
+Lower Manhattan,8,19,0,8,13
+Lower Manhattan,9,19,0,8,13
+Lower Manhattan,10,0,18,9,13
+Lower Manhattan,11,0,0,27,13
+Lower Manhattan,12,0,0,27,13
+Lower Manhattan,13,0,0,26,13
+Lower Manhattan,14,0,0,26,13
+Lower Manhattan,15,0,0,26,13
+Lower Manhattan,16,0,0,26,13
+Lower Manhattan,17,0,0,26,13
+Lower Manhattan,18,26,0,0,13
+Lower Manhattan,19,0,0,3,13
+Lower Manhattan,20,2,0,0,13

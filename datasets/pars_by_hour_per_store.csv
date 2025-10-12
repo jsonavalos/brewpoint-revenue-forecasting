@@ -1,0 +1,1029 @@
+store_location,weekday,hour,pars_multiplier,staff_flag
+Astoria,Friday,7,1.15,normal
+Astoria,Friday,7,1.15,normal
+Astoria,Friday,7,1.0,normal
+Astoria,Friday,7,1.15,normal
+Astoria,Friday,8,1.0,normal
+Astoria,Friday,8,1.15,normal
+Astoria,Friday,8,1.15,normal
+Astoria,Friday,8,0.8,normal
+Astoria,Friday,9,1.15,normal
+Astoria,Friday,9,1.15,normal
+Astoria,Friday,9,1.0,normal
+Astoria,Friday,9,1.15,normal
+Astoria,Friday,10,1.1,normal
+Astoria,Friday,10,0.8,normal
+Astoria,Friday,10,0.8,normal
+Astoria,Friday,10,1.0,normal
+Astoria,Friday,11,1.15,normal
+Astoria,Friday,11,1.15,normal
+Astoria,Friday,11,1.25,normal
+Astoria,Friday,11,1.0,normal
+Astoria,Friday,12,0.9,normal
+Astoria,Friday,12,1.1,normal
+Astoria,Friday,12,1.15,normal
+Astoria,Friday,12,1.1,normal
+Astoria,Friday,13,1.0,normal
+Astoria,Friday,13,1.1,normal
+Astoria,Friday,13,1.15,normal
+Astoria,Friday,13,1.15,normal
+Astoria,Friday,14,0.9,normal
+Astoria,Friday,14,1.15,normal
+Astoria,Friday,14,1.15,normal
+Astoria,Friday,14,1.1,normal
+Astoria,Friday,15,0.9,normal
+Astoria,Friday,15,1.1,normal
+Astoria,Friday,15,1.1,normal
+Astoria,Friday,15,1.0,normal
+Astoria,Friday,16,1.15,normal
+Astoria,Friday,16,1.1,normal
+Astoria,Friday,16,1.1,normal
+Astoria,Friday,16,1.1,normal
+Astoria,Friday,17,0.9,normal
+Astoria,Friday,17,1.1,normal
+Astoria,Friday,17,1.1,normal
+Astoria,Friday,17,1.1,normal
+Astoria,Friday,18,0.9,normal
+Astoria,Friday,18,1.1,normal
+Astoria,Friday,18,1.25,normal
+Astoria,Friday,18,1.15,normal
+Astoria,Friday,19,1.25,normal
+Astoria,Friday,19,1.25,normal
+Astoria,Friday,19,1.25,peak
+Astoria,Monday,7,1.15,normal
+Astoria,Monday,7,1.0,normal
+Astoria,Monday,7,1.15,normal
+Astoria,Monday,8,1.15,normal
+Astoria,Monday,8,1.15,normal
+Astoria,Monday,8,1.0,normal
+Astoria,Monday,9,1.1,normal
+Astoria,Monday,9,1.25,normal
+Astoria,Monday,9,1.1,normal
+Astoria,Monday,10,0.8,normal
+Astoria,Monday,10,0.9,normal
+Astoria,Monday,10,1.0,normal
+Astoria,Monday,11,1.25,peak
+Astoria,Monday,11,1.0,normal
+Astoria,Monday,11,1.0,normal
+Astoria,Monday,11,1.25,normal
+Astoria,Monday,12,1.25,peak
+Astoria,Monday,12,0.9,normal
+Astoria,Monday,12,1.1,normal
+Astoria,Monday,12,1.15,normal
+Astoria,Monday,13,1.25,peak
+Astoria,Monday,13,0.8,normal
+Astoria,Monday,13,1.0,normal
+Astoria,Monday,13,1.15,normal
+Astoria,Monday,14,1.25,peak
+Astoria,Monday,14,1.0,normal
+Astoria,Monday,14,1.0,normal
+Astoria,Monday,14,1.15,normal
+Astoria,Monday,15,1.25,peak
+Astoria,Monday,15,0.9,normal
+Astoria,Monday,15,1.25,normal
+Astoria,Monday,15,1.15,normal
+Astoria,Monday,16,1.25,normal
+Astoria,Monday,16,0.9,normal
+Astoria,Monday,16,1.0,normal
+Astoria,Monday,16,1.15,normal
+Astoria,Monday,17,1.25,normal
+Astoria,Monday,17,1.0,normal
+Astoria,Monday,17,1.0,normal
+Astoria,Monday,17,1.15,normal
+Astoria,Monday,18,1.25,peak
+Astoria,Monday,18,1.0,normal
+Astoria,Monday,18,1.0,normal
+Astoria,Monday,18,1.25,normal
+Astoria,Monday,19,1.25,peak
+Astoria,Monday,19,1.25,normal
+Astoria,Monday,19,1.25,normal
+Astoria,Monday,19,1.15,normal
+Astoria,Saturday,7,1.0,normal
+Astoria,Saturday,7,1.15,normal
+Astoria,Saturday,7,1.15,normal
+Astoria,Saturday,8,1.15,normal
+Astoria,Saturday,8,1.15,normal
+Astoria,Saturday,8,1.1,normal
+Astoria,Saturday,9,1.1,normal
+Astoria,Saturday,9,1.15,normal
+Astoria,Saturday,9,1.0,normal
+Astoria,Saturday,10,1.0,normal
+Astoria,Saturday,10,0.8,normal
+Astoria,Saturday,10,0.9,normal
+Astoria,Saturday,11,1.25,normal
+Astoria,Saturday,11,1.1,normal
+Astoria,Saturday,11,1.25,normal
+Astoria,Saturday,12,1.25,normal
+Astoria,Saturday,12,1.1,normal
+Astoria,Saturday,12,1.25,peak
+Astoria,Saturday,13,1.25,normal
+Astoria,Saturday,13,1.0,normal
+Astoria,Saturday,13,1.25,peak
+Astoria,Saturday,14,1.15,normal
+Astoria,Saturday,14,1.0,normal
+Astoria,Saturday,14,1.25,peak
+Astoria,Saturday,15,1.1,normal
+Astoria,Saturday,15,1.0,normal
+Astoria,Saturday,15,1.1,normal
+Astoria,Saturday,16,1.25,normal
+Astoria,Saturday,16,1.15,normal
+Astoria,Saturday,16,1.25,normal
+Astoria,Saturday,17,1.25,normal
+Astoria,Saturday,17,1.25,normal
+Astoria,Saturday,17,1.0,normal
+Astoria,Saturday,18,1.0,normal
+Astoria,Saturday,18,1.25,peak
+Astoria,Saturday,18,1.1,normal
+Astoria,Saturday,19,1.25,normal
+Astoria,Saturday,19,1.25,normal
+Astoria,Saturday,19,1.15,normal
+Astoria,Sunday,7,1.1,normal
+Astoria,Sunday,7,1.1,normal
+Astoria,Sunday,7,1.0,normal
+Astoria,Sunday,8,1.15,normal
+Astoria,Sunday,8,1.1,normal
+Astoria,Sunday,8,1.0,normal
+Astoria,Sunday,9,1.25,normal
+Astoria,Sunday,9,1.25,normal
+Astoria,Sunday,9,1.15,normal
+Astoria,Sunday,10,0.9,normal
+Astoria,Sunday,10,0.8,normal
+Astoria,Sunday,10,0.8,normal
+Astoria,Sunday,11,0.9,normal
+Astoria,Sunday,11,1.25,normal
+Astoria,Sunday,11,1.25,normal
+Astoria,Sunday,12,0.9,normal
+Astoria,Sunday,12,1.0,normal
+Astoria,Sunday,12,1.1,normal
+Astoria,Sunday,13,1.0,normal
+Astoria,Sunday,13,1.0,normal
+Astoria,Sunday,13,1.1,normal
+Astoria,Sunday,14,1.1,normal
+Astoria,Sunday,14,1.0,normal
+Astoria,Sunday,14,1.25,normal
+Astoria,Sunday,15,0.9,normal
+Astoria,Sunday,15,1.0,normal
+Astoria,Sunday,15,1.1,normal
+Astoria,Sunday,16,0.9,normal
+Astoria,Sunday,16,1.0,normal
+Astoria,Sunday,16,1.0,normal
+Astoria,Sunday,17,0.9,normal
+Astoria,Sunday,17,1.25,normal
+Astoria,Sunday,17,1.25,normal
+Astoria,Sunday,18,1.25,normal
+Astoria,Sunday,18,1.1,normal
+Astoria,Sunday,18,1.25,peak
+Astoria,Sunday,18,1.1,normal
+Astoria,Sunday,19,1.25,peak
+Astoria,Sunday,19,1.25,normal
+Astoria,Sunday,19,1.25,peak
+Astoria,Sunday,19,1.15,normal
+Astoria,Thursday,7,1.0,normal
+Astoria,Thursday,7,1.1,normal
+Astoria,Thursday,7,1.0,normal
+Astoria,Thursday,7,1.1,normal
+Astoria,Thursday,8,1.0,normal
+Astoria,Thursday,8,1.15,normal
+Astoria,Thursday,8,1.1,normal
+Astoria,Thursday,8,1.1,normal
+Astoria,Thursday,9,1.15,normal
+Astoria,Thursday,9,1.15,normal
+Astoria,Thursday,9,1.15,normal
+Astoria,Thursday,9,1.0,normal
+Astoria,Thursday,10,0.9,normal
+Astoria,Thursday,10,0.8,normal
+Astoria,Thursday,10,0.8,normal
+Astoria,Thursday,10,0.8,normal
+Astoria,Thursday,11,1.25,normal
+Astoria,Thursday,11,1.0,normal
+Astoria,Thursday,11,1.0,normal
+Astoria,Thursday,11,1.15,normal
+Astoria,Thursday,12,1.15,normal
+Astoria,Thursday,12,1.0,normal
+Astoria,Thursday,12,1.1,normal
+Astoria,Thursday,12,1.15,normal
+Astoria,Thursday,13,1.25,normal
+Astoria,Thursday,13,1.0,normal
+Astoria,Thursday,13,1.15,normal
+Astoria,Thursday,13,1.25,normal
+Astoria,Thursday,14,1.15,normal
+Astoria,Thursday,14,1.0,normal
+Astoria,Thursday,14,1.0,normal
+Astoria,Thursday,14,1.1,normal
+Astoria,Thursday,15,1.25,normal
+Astoria,Thursday,15,1.0,normal
+Astoria,Thursday,15,1.15,normal
+Astoria,Thursday,15,1.15,normal
+Astoria,Thursday,16,1.25,normal
+Astoria,Thursday,16,1.0,normal
+Astoria,Thursday,16,1.15,normal
+Astoria,Thursday,16,1.15,normal
+Astoria,Thursday,17,1.25,peak
+Astoria,Thursday,17,0.9,normal
+Astoria,Thursday,17,1.0,normal
+Astoria,Thursday,17,1.25,normal
+Astoria,Thursday,18,1.1,normal
+Astoria,Thursday,18,0.9,normal
+Astoria,Thursday,18,1.1,normal
+Astoria,Thursday,18,1.15,normal
+Astoria,Thursday,19,1.25,normal
+Astoria,Thursday,19,1.25,normal
+Astoria,Thursday,19,1.25,normal
+Astoria,Thursday,19,1.25,normal
+Astoria,Tuesday,7,1.15,normal
+Astoria,Tuesday,7,1.15,normal
+Astoria,Tuesday,7,1.15,normal
+Astoria,Tuesday,8,1.15,normal
+Astoria,Tuesday,8,1.1,normal
+Astoria,Tuesday,8,0.9,normal
+Astoria,Tuesday,9,1.15,normal
+Astoria,Tuesday,9,1.15,normal
+Astoria,Tuesday,9,1.15,normal
+Astoria,Tuesday,10,0.8,normal
+Astoria,Tuesday,10,0.8,normal
+Astoria,Tuesday,10,0.8,normal
+Astoria,Tuesday,11,1.25,peak
+Astoria,Tuesday,11,0.9,normal
+Astoria,Tuesday,11,1.0,normal
+Astoria,Tuesday,11,1.25,normal
+Astoria,Tuesday,12,1.25,normal
+Astoria,Tuesday,12,1.0,normal
+Astoria,Tuesday,12,1.0,normal
+Astoria,Tuesday,12,1.25,normal
+Astoria,Tuesday,13,1.25,normal
+Astoria,Tuesday,13,0.9,normal
+Astoria,Tuesday,13,0.9,normal
+Astoria,Tuesday,13,1.1,normal
+Astoria,Tuesday,14,1.15,normal
+Astoria,Tuesday,14,0.9,normal
+Astoria,Tuesday,14,1.1,normal
+Astoria,Tuesday,14,1.15,normal
+Astoria,Tuesday,15,1.25,normal
+Astoria,Tuesday,15,1.0,normal
+Astoria,Tuesday,15,1.15,normal
+Astoria,Tuesday,15,1.25,normal
+Astoria,Tuesday,16,1.25,normal
+Astoria,Tuesday,16,0.9,normal
+Astoria,Tuesday,16,0.9,normal
+Astoria,Tuesday,16,1.15,normal
+Astoria,Tuesday,17,1.25,peak
+Astoria,Tuesday,17,1.0,normal
+Astoria,Tuesday,17,1.0,normal
+Astoria,Tuesday,17,1.25,normal
+Astoria,Tuesday,18,1.25,peak
+Astoria,Tuesday,18,1.1,normal
+Astoria,Tuesday,18,1.15,normal
+Astoria,Tuesday,18,1.15,normal
+Astoria,Tuesday,19,1.25,peak
+Astoria,Tuesday,19,1.15,normal
+Astoria,Tuesday,19,1.25,normal
+Astoria,Tuesday,19,1.15,normal
+Astoria,Wednesday,7,1.1,normal
+Astoria,Wednesday,7,1.1,normal
+Astoria,Wednesday,8,1.0,normal
+Astoria,Wednesday,8,1.15,normal
+Astoria,Wednesday,8,1.1,normal
+Astoria,Wednesday,8,1.0,normal
+Astoria,Wednesday,9,1.0,normal
+Astoria,Wednesday,9,1.25,peak
+Astoria,Wednesday,9,1.15,normal
+Astoria,Wednesday,9,1.15,normal
+Astoria,Wednesday,10,0.8,normal
+Astoria,Wednesday,10,0.8,normal
+Astoria,Wednesday,10,0.9,normal
+Astoria,Wednesday,10,0.9,normal
+Astoria,Wednesday,11,1.25,normal
+Astoria,Wednesday,11,1.0,normal
+Astoria,Wednesday,11,1.1,normal
+Astoria,Wednesday,11,1.1,normal
+Astoria,Wednesday,12,1.15,normal
+Astoria,Wednesday,12,0.9,normal
+Astoria,Wednesday,12,1.0,normal
+Astoria,Wednesday,12,1.25,normal
+Astoria,Wednesday,13,1.25,normal
+Astoria,Wednesday,13,0.9,normal
+Astoria,Wednesday,13,1.25,normal
+Astoria,Wednesday,13,1.15,normal
+Astoria,Wednesday,14,1.25,normal
+Astoria,Wednesday,14,1.0,normal
+Astoria,Wednesday,14,1.0,normal
+Astoria,Wednesday,14,1.15,normal
+Astoria,Wednesday,15,1.15,normal
+Astoria,Wednesday,15,0.9,normal
+Astoria,Wednesday,15,0.9,normal
+Astoria,Wednesday,15,1.15,normal
+Astoria,Wednesday,16,1.1,normal
+Astoria,Wednesday,16,1.1,normal
+Astoria,Wednesday,16,1.15,normal
+Astoria,Wednesday,16,1.25,normal
+Astoria,Wednesday,17,1.25,normal
+Astoria,Wednesday,17,0.9,normal
+Astoria,Wednesday,17,1.25,normal
+Astoria,Wednesday,17,1.15,normal
+Astoria,Wednesday,18,1.1,normal
+Astoria,Wednesday,18,1.1,normal
+Astoria,Wednesday,18,1.0,normal
+Astoria,Wednesday,18,1.15,normal
+Astoria,Wednesday,19,1.25,normal
+Astoria,Wednesday,19,1.25,normal
+Astoria,Wednesday,19,1.25,normal
+Astoria,Wednesday,19,1.15,normal
+Hell's Kitchen,Friday,6,1.25,peak
+Hell's Kitchen,Friday,6,1.25,peak
+Hell's Kitchen,Friday,6,1.25,peak
+Hell's Kitchen,Friday,6,1.25,normal
+Hell's Kitchen,Friday,7,1.15,peak
+Hell's Kitchen,Friday,7,1.15,normal
+Hell's Kitchen,Friday,7,1.15,normal
+Hell's Kitchen,Friday,7,1.15,peak
+Hell's Kitchen,Friday,8,1.25,peak
+Hell's Kitchen,Friday,8,1.25,normal
+Hell's Kitchen,Friday,8,1.25,normal
+Hell's Kitchen,Friday,8,1.1,normal
+Hell's Kitchen,Friday,9,1.25,peak
+Hell's Kitchen,Friday,9,1.15,peak
+Hell's Kitchen,Friday,9,1.25,peak
+Hell's Kitchen,Friday,9,1.25,normal
+Hell's Kitchen,Friday,10,0.9,normal
+Hell's Kitchen,Friday,10,0.8,normal
+Hell's Kitchen,Friday,10,0.9,normal
+Hell's Kitchen,Friday,10,0.8,normal
+Hell's Kitchen,Friday,11,0.9,normal
+Hell's Kitchen,Friday,11,0.9,normal
+Hell's Kitchen,Friday,11,0.8,normal
+Hell's Kitchen,Friday,11,0.9,normal
+Hell's Kitchen,Friday,12,1.0,normal
+Hell's Kitchen,Friday,12,0.9,normal
+Hell's Kitchen,Friday,12,1.0,normal
+Hell's Kitchen,Friday,12,1.1,normal
+Hell's Kitchen,Friday,13,1.1,normal
+Hell's Kitchen,Friday,13,1.0,normal
+Hell's Kitchen,Friday,13,1.0,normal
+Hell's Kitchen,Friday,13,0.9,normal
+Hell's Kitchen,Friday,14,1.0,normal
+Hell's Kitchen,Friday,14,1.0,normal
+Hell's Kitchen,Friday,14,1.0,normal
+Hell's Kitchen,Friday,14,1.0,normal
+Hell's Kitchen,Friday,15,1.0,normal
+Hell's Kitchen,Friday,15,1.0,normal
+Hell's Kitchen,Friday,15,1.0,normal
+Hell's Kitchen,Friday,15,1.0,normal
+Hell's Kitchen,Friday,16,1.0,normal
+Hell's Kitchen,Friday,16,0.9,normal
+Hell's Kitchen,Friday,16,1.0,normal
+Hell's Kitchen,Friday,16,1.0,normal
+Hell's Kitchen,Friday,17,0.9,normal
+Hell's Kitchen,Friday,17,0.8,normal
+Hell's Kitchen,Friday,17,0.9,normal
+Hell's Kitchen,Friday,17,1.0,normal
+Hell's Kitchen,Friday,18,1.0,normal
+Hell's Kitchen,Friday,18,0.9,normal
+Hell's Kitchen,Friday,18,1.0,normal
+Hell's Kitchen,Friday,18,1.0,normal
+Hell's Kitchen,Friday,19,1.25,normal
+Hell's Kitchen,Friday,19,1.25,normal
+Hell's Kitchen,Friday,19,1.25,normal
+Hell's Kitchen,Friday,19,1.25,normal
+Hell's Kitchen,Monday,6,1.25,peak
+Hell's Kitchen,Monday,6,1.25,normal
+Hell's Kitchen,Monday,6,1.25,peak
+Hell's Kitchen,Monday,7,1.25,peak
+Hell's Kitchen,Monday,7,1.25,peak
+Hell's Kitchen,Monday,7,1.25,peak
+Hell's Kitchen,Monday,8,1.25,peak
+Hell's Kitchen,Monday,8,1.15,peak
+Hell's Kitchen,Monday,8,1.25,peak
+Hell's Kitchen,Monday,8,1.25,peak
+Hell's Kitchen,Monday,9,1.15,normal
+Hell's Kitchen,Monday,9,1.15,peak
+Hell's Kitchen,Monday,9,1.25,peak
+Hell's Kitchen,Monday,9,1.1,normal
+Hell's Kitchen,Monday,10,0.9,normal
+Hell's Kitchen,Monday,10,0.9,normal
+Hell's Kitchen,Monday,10,0.9,normal
+Hell's Kitchen,Monday,10,0.9,normal
+Hell's Kitchen,Monday,11,0.8,normal
+Hell's Kitchen,Monday,11,0.8,normal
+Hell's Kitchen,Monday,11,0.9,normal
+Hell's Kitchen,Monday,11,0.9,normal
+Hell's Kitchen,Monday,12,0.9,normal
+Hell's Kitchen,Monday,12,1.1,normal
+Hell's Kitchen,Monday,12,0.9,normal
+Hell's Kitchen,Monday,12,1.0,normal
+Hell's Kitchen,Monday,13,1.1,normal
+Hell's Kitchen,Monday,13,1.0,normal
+Hell's Kitchen,Monday,13,1.0,normal
+Hell's Kitchen,Monday,13,1.0,normal
+Hell's Kitchen,Monday,14,1.0,normal
+Hell's Kitchen,Monday,14,1.0,normal
+Hell's Kitchen,Monday,14,0.9,normal
+Hell's Kitchen,Monday,14,1.0,normal
+Hell's Kitchen,Monday,15,1.1,normal
+Hell's Kitchen,Monday,15,1.0,normal
+Hell's Kitchen,Monday,15,1.0,normal
+Hell's Kitchen,Monday,15,1.1,normal
+Hell's Kitchen,Monday,16,1.0,normal
+Hell's Kitchen,Monday,16,1.0,normal
+Hell's Kitchen,Monday,16,1.1,normal
+Hell's Kitchen,Monday,16,1.0,normal
+Hell's Kitchen,Monday,17,1.0,normal
+Hell's Kitchen,Monday,17,1.0,normal
+Hell's Kitchen,Monday,17,1.0,normal
+Hell's Kitchen,Monday,17,0.9,normal
+Hell's Kitchen,Monday,18,1.1,normal
+Hell's Kitchen,Monday,18,1.0,normal
+Hell's Kitchen,Monday,18,0.8,normal
+Hell's Kitchen,Monday,18,1.0,normal
+Hell's Kitchen,Monday,19,1.25,normal
+Hell's Kitchen,Monday,19,1.25,normal
+Hell's Kitchen,Monday,19,1.25,normal
+Hell's Kitchen,Monday,19,1.25,normal
+Hell's Kitchen,Saturday,6,1.25,peak
+Hell's Kitchen,Saturday,6,1.25,peak
+Hell's Kitchen,Saturday,6,1.25,peak
+Hell's Kitchen,Saturday,7,1.25,peak
+Hell's Kitchen,Saturday,7,1.1,normal
+Hell's Kitchen,Saturday,7,1.0,normal
+Hell's Kitchen,Saturday,8,1.25,peak
+Hell's Kitchen,Saturday,8,1.1,normal
+Hell's Kitchen,Saturday,8,1.1,normal
+Hell's Kitchen,Saturday,9,1.15,normal
+Hell's Kitchen,Saturday,9,1.15,normal
+Hell's Kitchen,Saturday,9,1.15,normal
+Hell's Kitchen,Saturday,10,0.8,normal
+Hell's Kitchen,Saturday,10,0.9,normal
+Hell's Kitchen,Saturday,10,0.8,normal
+Hell's Kitchen,Saturday,11,0.8,normal
+Hell's Kitchen,Saturday,11,0.9,normal
+Hell's Kitchen,Saturday,11,0.8,normal
+Hell's Kitchen,Saturday,12,0.9,normal
+Hell's Kitchen,Saturday,12,1.0,normal
+Hell's Kitchen,Saturday,12,0.9,normal
+Hell's Kitchen,Saturday,13,1.0,normal
+Hell's Kitchen,Saturday,13,1.0,normal
+Hell's Kitchen,Saturday,13,1.1,normal
+Hell's Kitchen,Saturday,14,1.0,normal
+Hell's Kitchen,Saturday,14,0.9,normal
+Hell's Kitchen,Saturday,14,1.0,normal
+Hell's Kitchen,Saturday,15,1.0,normal
+Hell's Kitchen,Saturday,15,1.0,normal
+Hell's Kitchen,Saturday,15,1.1,normal
+Hell's Kitchen,Saturday,16,1.0,normal
+Hell's Kitchen,Saturday,16,1.0,normal
+Hell's Kitchen,Saturday,16,1.1,normal
+Hell's Kitchen,Saturday,17,0.9,normal
+Hell's Kitchen,Saturday,17,1.0,normal
+Hell's Kitchen,Saturday,17,0.9,normal
+Hell's Kitchen,Saturday,18,1.0,normal
+Hell's Kitchen,Saturday,18,0.9,normal
+Hell's Kitchen,Saturday,18,1.0,normal
+Hell's Kitchen,Saturday,19,1.25,normal
+Hell's Kitchen,Saturday,19,1.25,normal
+Hell's Kitchen,Saturday,19,1.25,normal
+Hell's Kitchen,Sunday,6,1.25,normal
+Hell's Kitchen,Sunday,6,1.25,peak
+Hell's Kitchen,Sunday,6,1.25,peak
+Hell's Kitchen,Sunday,7,1.25,peak
+Hell's Kitchen,Sunday,7,1.15,normal
+Hell's Kitchen,Sunday,7,1.25,peak
+Hell's Kitchen,Sunday,8,1.15,peak
+Hell's Kitchen,Sunday,8,1.25,normal
+Hell's Kitchen,Sunday,8,1.15,peak
+Hell's Kitchen,Sunday,9,1.15,normal
+Hell's Kitchen,Sunday,9,1.25,peak
+Hell's Kitchen,Sunday,9,1.25,peak
+Hell's Kitchen,Sunday,9,1.25,peak
+Hell's Kitchen,Sunday,10,0.8,normal
+Hell's Kitchen,Sunday,10,0.8,normal
+Hell's Kitchen,Sunday,10,0.9,normal
+Hell's Kitchen,Sunday,10,0.9,normal
+Hell's Kitchen,Sunday,11,0.8,normal
+Hell's Kitchen,Sunday,11,0.8,normal
+Hell's Kitchen,Sunday,11,0.8,normal
+Hell's Kitchen,Sunday,11,0.8,normal
+Hell's Kitchen,Sunday,12,0.9,normal
+Hell's Kitchen,Sunday,12,0.9,normal
+Hell's Kitchen,Sunday,12,0.9,normal
+Hell's Kitchen,Sunday,12,1.0,normal
+Hell's Kitchen,Sunday,13,1.0,normal
+Hell's Kitchen,Sunday,13,1.0,normal
+Hell's Kitchen,Sunday,13,1.0,normal
+Hell's Kitchen,Sunday,13,1.0,normal
+Hell's Kitchen,Sunday,14,0.9,normal
+Hell's Kitchen,Sunday,14,1.0,normal
+Hell's Kitchen,Sunday,14,0.9,normal
+Hell's Kitchen,Sunday,14,1.0,normal
+Hell's Kitchen,Sunday,15,1.1,normal
+Hell's Kitchen,Sunday,15,1.0,normal
+Hell's Kitchen,Sunday,15,1.0,normal
+Hell's Kitchen,Sunday,15,1.0,normal
+Hell's Kitchen,Sunday,16,1.1,normal
+Hell's Kitchen,Sunday,16,1.0,normal
+Hell's Kitchen,Sunday,16,1.0,normal
+Hell's Kitchen,Sunday,16,1.0,normal
+Hell's Kitchen,Sunday,17,1.0,normal
+Hell's Kitchen,Sunday,17,0.9,normal
+Hell's Kitchen,Sunday,17,1.0,normal
+Hell's Kitchen,Sunday,17,1.0,normal
+Hell's Kitchen,Sunday,18,1.0,normal
+Hell's Kitchen,Sunday,18,0.9,normal
+Hell's Kitchen,Sunday,18,1.15,normal
+Hell's Kitchen,Sunday,18,1.0,normal
+Hell's Kitchen,Sunday,19,1.25,normal
+Hell's Kitchen,Sunday,19,1.25,normal
+Hell's Kitchen,Sunday,19,1.25,normal
+Hell's Kitchen,Sunday,19,1.25,normal
+Hell's Kitchen,Thursday,6,1.25,peak
+Hell's Kitchen,Thursday,6,1.25,peak
+Hell's Kitchen,Thursday,6,1.25,peak
+Hell's Kitchen,Thursday,7,1.15,peak
+Hell's Kitchen,Thursday,7,1.15,normal
+Hell's Kitchen,Thursday,7,1.0,normal
+Hell's Kitchen,Thursday,8,1.25,peak
+Hell's Kitchen,Thursday,8,1.25,normal
+Hell's Kitchen,Thursday,8,1.0,normal
+Hell's Kitchen,Thursday,8,1.25,peak
+Hell's Kitchen,Thursday,9,1.25,peak
+Hell's Kitchen,Thursday,9,1.15,peak
+Hell's Kitchen,Thursday,9,1.15,normal
+Hell's Kitchen,Thursday,9,1.25,peak
+Hell's Kitchen,Thursday,10,0.9,normal
+Hell's Kitchen,Thursday,10,0.8,normal
+Hell's Kitchen,Thursday,10,0.8,normal
+Hell's Kitchen,Thursday,10,0.8,normal
+Hell's Kitchen,Thursday,11,0.8,normal
+Hell's Kitchen,Thursday,11,0.8,normal
+Hell's Kitchen,Thursday,11,0.8,normal
+Hell's Kitchen,Thursday,11,0.8,normal
+Hell's Kitchen,Thursday,12,0.9,normal
+Hell's Kitchen,Thursday,12,0.8,normal
+Hell's Kitchen,Thursday,12,0.9,normal
+Hell's Kitchen,Thursday,12,1.0,normal
+Hell's Kitchen,Thursday,13,1.0,normal
+Hell's Kitchen,Thursday,13,1.0,normal
+Hell's Kitchen,Thursday,13,1.1,normal
+Hell's Kitchen,Thursday,13,1.0,normal
+Hell's Kitchen,Thursday,14,0.9,normal
+Hell's Kitchen,Thursday,14,0.9,normal
+Hell's Kitchen,Thursday,14,1.0,normal
+Hell's Kitchen,Thursday,14,1.0,normal
+Hell's Kitchen,Thursday,15,1.1,normal
+Hell's Kitchen,Thursday,15,1.0,normal
+Hell's Kitchen,Thursday,15,1.0,normal
+Hell's Kitchen,Thursday,15,1.0,normal
+Hell's Kitchen,Thursday,16,0.9,normal
+Hell's Kitchen,Thursday,16,1.0,normal
+Hell's Kitchen,Thursday,16,1.0,normal
+Hell's Kitchen,Thursday,16,1.0,normal
+Hell's Kitchen,Thursday,17,1.0,normal
+Hell's Kitchen,Thursday,17,0.8,normal
+Hell's Kitchen,Thursday,17,1.0,normal
+Hell's Kitchen,Thursday,17,1.1,normal
+Hell's Kitchen,Thursday,18,1.0,normal
+Hell's Kitchen,Thursday,18,1.0,normal
+Hell's Kitchen,Thursday,18,1.0,normal
+Hell's Kitchen,Thursday,18,1.15,normal
+Hell's Kitchen,Thursday,19,1.25,normal
+Hell's Kitchen,Thursday,19,1.25,normal
+Hell's Kitchen,Thursday,19,1.25,normal
+Hell's Kitchen,Thursday,19,1.25,normal
+Hell's Kitchen,Tuesday,8,1.15,normal
+Hell's Kitchen,Tuesday,8,1.25,peak
+Hell's Kitchen,Tuesday,8,1.25,peak
+Hell's Kitchen,Tuesday,8,1.25,peak
+Hell's Kitchen,Tuesday,9,1.15,normal
+Hell's Kitchen,Tuesday,9,1.25,peak
+Hell's Kitchen,Tuesday,9,1.25,peak
+Hell's Kitchen,Tuesday,9,1.25,peak
+Hell's Kitchen,Tuesday,10,0.9,normal
+Hell's Kitchen,Tuesday,10,0.9,normal
+Hell's Kitchen,Tuesday,10,0.9,normal
+Hell's Kitchen,Tuesday,10,0.8,normal
+Hell's Kitchen,Tuesday,11,0.8,normal
+Hell's Kitchen,Tuesday,11,0.8,normal
+Hell's Kitchen,Tuesday,11,0.9,normal
+Hell's Kitchen,Tuesday,11,0.9,normal
+Hell's Kitchen,Tuesday,12,1.0,normal
+Hell's Kitchen,Tuesday,12,1.1,normal
+Hell's Kitchen,Tuesday,12,1.0,normal
+Hell's Kitchen,Tuesday,12,1.0,normal
+Hell's Kitchen,Tuesday,13,1.0,normal
+Hell's Kitchen,Tuesday,13,1.0,normal
+Hell's Kitchen,Tuesday,13,1.0,normal
+Hell's Kitchen,Tuesday,13,1.1,normal
+Hell's Kitchen,Tuesday,14,1.0,normal
+Hell's Kitchen,Tuesday,14,1.0,normal
+Hell's Kitchen,Tuesday,14,1.0,normal
+Hell's Kitchen,Tuesday,14,1.0,normal
+Hell's Kitchen,Tuesday,15,1.15,normal
+Hell's Kitchen,Tuesday,15,1.0,normal
+Hell's Kitchen,Tuesday,15,1.1,normal
+Hell's Kitchen,Tuesday,15,1.0,normal
+Hell's Kitchen,Tuesday,16,1.1,normal
+Hell's Kitchen,Tuesday,16,1.0,normal
+Hell's Kitchen,Tuesday,16,1.1,normal
+Hell's Kitchen,Tuesday,16,1.0,normal
+Hell's Kitchen,Tuesday,17,1.1,normal
+Hell's Kitchen,Tuesday,17,1.1,normal
+Hell's Kitchen,Tuesday,17,1.0,normal
+Hell's Kitchen,Tuesday,17,0.9,normal
+Hell's Kitchen,Tuesday,18,1.1,normal
+Hell's Kitchen,Tuesday,18,0.9,normal
+Hell's Kitchen,Tuesday,18,0.9,normal
+Hell's Kitchen,Tuesday,18,1.0,normal
+Hell's Kitchen,Tuesday,19,1.25,normal
+Hell's Kitchen,Tuesday,19,1.25,normal
+Hell's Kitchen,Tuesday,19,1.25,normal
+Hell's Kitchen,Tuesday,19,1.25,normal
+Hell's Kitchen,Tuesday,20,1.25,normal
+Hell's Kitchen,Tuesday,20,1.25,normal
+Hell's Kitchen,Tuesday,20,1.25,normal
+Hell's Kitchen,Wednesday,8,1.25,peak
+Hell's Kitchen,Wednesday,8,1.25,peak
+Hell's Kitchen,Wednesday,8,1.25,peak
+Hell's Kitchen,Wednesday,8,1.15,normal
+Hell's Kitchen,Wednesday,9,1.25,peak
+Hell's Kitchen,Wednesday,9,1.25,peak
+Hell's Kitchen,Wednesday,9,1.25,peak
+Hell's Kitchen,Wednesday,9,1.15,normal
+Hell's Kitchen,Wednesday,10,0.8,normal
+Hell's Kitchen,Wednesday,10,0.8,normal
+Hell's Kitchen,Wednesday,10,0.8,normal
+Hell's Kitchen,Wednesday,10,0.8,normal
+Hell's Kitchen,Wednesday,11,0.9,normal
+Hell's Kitchen,Wednesday,11,0.9,normal
+Hell's Kitchen,Wednesday,11,0.9,normal
+Hell's Kitchen,Wednesday,11,0.8,normal
+Hell's Kitchen,Wednesday,12,1.0,normal
+Hell's Kitchen,Wednesday,12,1.0,normal
+Hell's Kitchen,Wednesday,12,1.1,normal
+Hell's Kitchen,Wednesday,12,1.1,normal
+Hell's Kitchen,Wednesday,13,1.0,normal
+Hell's Kitchen,Wednesday,13,1.0,normal
+Hell's Kitchen,Wednesday,13,1.0,normal
+Hell's Kitchen,Wednesday,13,1.1,normal
+Hell's Kitchen,Wednesday,14,1.0,normal
+Hell's Kitchen,Wednesday,14,1.0,normal
+Hell's Kitchen,Wednesday,14,1.1,normal
+Hell's Kitchen,Wednesday,14,1.0,normal
+Hell's Kitchen,Wednesday,15,1.0,normal
+Hell's Kitchen,Wednesday,15,1.1,normal
+Hell's Kitchen,Wednesday,15,1.1,normal
+Hell's Kitchen,Wednesday,15,1.15,normal
+Hell's Kitchen,Wednesday,16,1.1,normal
+Hell's Kitchen,Wednesday,16,1.0,normal
+Hell's Kitchen,Wednesday,16,1.0,normal
+Hell's Kitchen,Wednesday,16,1.1,normal
+Hell's Kitchen,Wednesday,17,1.1,normal
+Hell's Kitchen,Wednesday,17,1.0,normal
+Hell's Kitchen,Wednesday,17,1.0,normal
+Hell's Kitchen,Wednesday,17,1.0,normal
+Hell's Kitchen,Wednesday,18,1.1,normal
+Hell's Kitchen,Wednesday,18,1.1,normal
+Hell's Kitchen,Wednesday,18,1.0,normal
+Hell's Kitchen,Wednesday,18,1.1,normal
+Hell's Kitchen,Wednesday,19,1.25,normal
+Hell's Kitchen,Wednesday,19,1.25,normal
+Hell's Kitchen,Wednesday,19,1.25,normal
+Hell's Kitchen,Wednesday,19,1.25,normal
+Hell's Kitchen,Wednesday,20,1.25,peak
+Hell's Kitchen,Wednesday,20,1.25,peak
+Hell's Kitchen,Wednesday,20,1.25,peak
+Lower Manhattan,Friday,6,1.15,normal
+Lower Manhattan,Friday,6,1.15,normal
+Lower Manhattan,Friday,6,1.15,normal
+Lower Manhattan,Friday,7,1.15,normal
+Lower Manhattan,Friday,7,1.15,normal
+Lower Manhattan,Friday,7,1.15,normal
+Lower Manhattan,Friday,7,1.15,normal
+Lower Manhattan,Friday,8,1.25,normal
+Lower Manhattan,Friday,8,1.25,normal
+Lower Manhattan,Friday,8,1.15,normal
+Lower Manhattan,Friday,8,1.15,normal
+Lower Manhattan,Friday,9,1.15,peak
+Lower Manhattan,Friday,9,1.25,peak
+Lower Manhattan,Friday,9,1.15,normal
+Lower Manhattan,Friday,9,1.15,normal
+Lower Manhattan,Friday,10,0.8,normal
+Lower Manhattan,Friday,10,0.8,normal
+Lower Manhattan,Friday,10,0.8,normal
+Lower Manhattan,Friday,10,0.8,normal
+Lower Manhattan,Friday,11,1.15,normal
+Lower Manhattan,Friday,11,1.15,normal
+Lower Manhattan,Friday,11,1.15,normal
+Lower Manhattan,Friday,11,1.15,normal
+Lower Manhattan,Friday,12,1.15,normal
+Lower Manhattan,Friday,12,1.15,normal
+Lower Manhattan,Friday,12,1.15,normal
+Lower Manhattan,Friday,12,1.15,normal
+Lower Manhattan,Friday,13,1.25,normal
+Lower Manhattan,Friday,13,1.15,normal
+Lower Manhattan,Friday,13,1.15,normal
+Lower Manhattan,Friday,13,1.25,normal
+Lower Manhattan,Friday,14,1.15,normal
+Lower Manhattan,Friday,14,1.1,normal
+Lower Manhattan,Friday,14,1.1,normal
+Lower Manhattan,Friday,14,1.15,normal
+Lower Manhattan,Friday,15,1.0,normal
+Lower Manhattan,Friday,15,1.1,normal
+Lower Manhattan,Friday,15,1.1,normal
+Lower Manhattan,Friday,15,1.15,normal
+Lower Manhattan,Friday,16,1.1,normal
+Lower Manhattan,Friday,16,1.15,normal
+Lower Manhattan,Friday,16,1.1,normal
+Lower Manhattan,Friday,16,1.1,normal
+Lower Manhattan,Friday,17,1.15,normal
+Lower Manhattan,Friday,17,1.15,normal
+Lower Manhattan,Friday,17,1.15,normal
+Lower Manhattan,Friday,17,1.1,normal
+Lower Manhattan,Friday,18,1.25,normal
+Lower Manhattan,Friday,18,1.25,normal
+Lower Manhattan,Friday,18,1.25,normal
+Lower Manhattan,Friday,18,1.25,normal
+Lower Manhattan,Friday,19,1.25,normal
+Lower Manhattan,Friday,19,1.25,normal
+Lower Manhattan,Friday,20,1.25,normal
+Lower Manhattan,Monday,6,1.15,peak
+Lower Manhattan,Monday,6,1.15,normal
+Lower Manhattan,Monday,6,1.15,peak
+Lower Manhattan,Monday,7,1.15,peak
+Lower Manhattan,Monday,7,1.25,peak
+Lower Manhattan,Monday,7,1.25,normal
+Lower Manhattan,Monday,7,1.25,peak
+Lower Manhattan,Monday,8,1.25,peak
+Lower Manhattan,Monday,8,1.25,peak
+Lower Manhattan,Monday,8,1.25,peak
+Lower Manhattan,Monday,8,1.15,peak
+Lower Manhattan,Monday,9,1.15,normal
+Lower Manhattan,Monday,9,1.25,peak
+Lower Manhattan,Monday,9,1.15,peak
+Lower Manhattan,Monday,9,1.25,peak
+Lower Manhattan,Monday,10,0.8,normal
+Lower Manhattan,Monday,10,0.8,normal
+Lower Manhattan,Monday,10,0.8,normal
+Lower Manhattan,Monday,10,0.8,normal
+Lower Manhattan,Monday,11,1.15,normal
+Lower Manhattan,Monday,11,1.1,normal
+Lower Manhattan,Monday,11,1.15,normal
+Lower Manhattan,Monday,11,1.1,normal
+Lower Manhattan,Monday,12,1.1,normal
+Lower Manhattan,Monday,12,1.0,normal
+Lower Manhattan,Monday,12,1.1,normal
+Lower Manhattan,Monday,12,1.1,normal
+Lower Manhattan,Monday,13,1.1,normal
+Lower Manhattan,Monday,13,1.1,normal
+Lower Manhattan,Monday,13,1.15,normal
+Lower Manhattan,Monday,13,1.15,normal
+Lower Manhattan,Monday,14,1.1,normal
+Lower Manhattan,Monday,14,1.1,normal
+Lower Manhattan,Monday,14,1.1,normal
+Lower Manhattan,Monday,14,1.1,normal
+Lower Manhattan,Monday,15,1.1,normal
+Lower Manhattan,Monday,15,1.1,normal
+Lower Manhattan,Monday,15,1.0,normal
+Lower Manhattan,Monday,15,1.0,normal
+Lower Manhattan,Monday,16,1.1,normal
+Lower Manhattan,Monday,16,1.1,normal
+Lower Manhattan,Monday,16,1.1,normal
+Lower Manhattan,Monday,16,1.1,normal
+Lower Manhattan,Monday,17,1.0,normal
+Lower Manhattan,Monday,17,1.0,normal
+Lower Manhattan,Monday,17,1.1,normal
+Lower Manhattan,Monday,17,1.1,normal
+Lower Manhattan,Monday,18,1.25,normal
+Lower Manhattan,Monday,18,1.25,normal
+Lower Manhattan,Monday,18,1.25,normal
+Lower Manhattan,Monday,18,1.25,normal
+Lower Manhattan,Saturday,6,1.1,normal
+Lower Manhattan,Saturday,6,1.15,normal
+Lower Manhattan,Saturday,6,1.15,normal
+Lower Manhattan,Saturday,7,1.25,normal
+Lower Manhattan,Saturday,7,1.25,normal
+Lower Manhattan,Saturday,7,1.15,normal
+Lower Manhattan,Saturday,8,1.15,peak
+Lower Manhattan,Saturday,8,1.25,peak
+Lower Manhattan,Saturday,8,1.15,peak
+Lower Manhattan,Saturday,9,1.25,peak
+Lower Manhattan,Saturday,9,1.25,peak
+Lower Manhattan,Saturday,9,1.25,peak
+Lower Manhattan,Saturday,10,0.8,normal
+Lower Manhattan,Saturday,10,0.8,normal
+Lower Manhattan,Saturday,10,0.8,normal
+Lower Manhattan,Saturday,11,1.15,normal
+Lower Manhattan,Saturday,11,1.1,normal
+Lower Manhattan,Saturday,11,1.15,normal
+Lower Manhattan,Saturday,12,1.15,normal
+Lower Manhattan,Saturday,12,1.1,normal
+Lower Manhattan,Saturday,12,1.15,normal
+Lower Manhattan,Saturday,13,1.15,normal
+Lower Manhattan,Saturday,13,1.15,normal
+Lower Manhattan,Saturday,13,1.15,normal
+Lower Manhattan,Saturday,14,1.1,normal
+Lower Manhattan,Saturday,14,1.1,normal
+Lower Manhattan,Saturday,14,1.15,normal
+Lower Manhattan,Saturday,15,1.1,normal
+Lower Manhattan,Saturday,15,1.1,normal
+Lower Manhattan,Saturday,15,1.1,normal
+Lower Manhattan,Saturday,16,1.15,normal
+Lower Manhattan,Saturday,16,1.1,normal
+Lower Manhattan,Saturday,16,1.1,normal
+Lower Manhattan,Saturday,17,1.15,normal
+Lower Manhattan,Saturday,17,1.15,normal
+Lower Manhattan,Saturday,17,1.15,normal
+Lower Manhattan,Saturday,18,1.25,normal
+Lower Manhattan,Saturday,18,1.25,normal
+Lower Manhattan,Saturday,18,1.25,normal
+Lower Manhattan,Sunday,6,1.1,normal
+Lower Manhattan,Sunday,6,1.15,peak
+Lower Manhattan,Sunday,6,1.1,normal
+Lower Manhattan,Sunday,7,1.1,normal
+Lower Manhattan,Sunday,7,1.15,normal
+Lower Manhattan,Sunday,7,1.25,peak
+Lower Manhattan,Sunday,7,1.25,normal
+Lower Manhattan,Sunday,8,1.15,normal
+Lower Manhattan,Sunday,8,1.25,peak
+Lower Manhattan,Sunday,8,1.25,peak
+Lower Manhattan,Sunday,8,1.15,peak
+Lower Manhattan,Sunday,9,1.25,normal
+Lower Manhattan,Sunday,9,1.25,peak
+Lower Manhattan,Sunday,9,1.25,peak
+Lower Manhattan,Sunday,9,1.25,peak
+Lower Manhattan,Sunday,10,0.8,normal
+Lower Manhattan,Sunday,10,0.8,normal
+Lower Manhattan,Sunday,10,0.8,normal
+Lower Manhattan,Sunday,10,0.8,normal
+Lower Manhattan,Sunday,11,1.1,normal
+Lower Manhattan,Sunday,11,1.0,normal
+Lower Manhattan,Sunday,11,1.1,normal
+Lower Manhattan,Sunday,11,1.1,normal
+Lower Manhattan,Sunday,12,1.1,normal
+Lower Manhattan,Sunday,12,1.1,normal
+Lower Manhattan,Sunday,12,1.1,normal
+Lower Manhattan,Sunday,12,1.1,normal
+Lower Manhattan,Sunday,13,1.15,normal
+Lower Manhattan,Sunday,13,1.15,normal
+Lower Manhattan,Sunday,13,1.1,normal
+Lower Manhattan,Sunday,13,1.15,normal
+Lower Manhattan,Sunday,14,1.1,normal
+Lower Manhattan,Sunday,14,1.1,normal
+Lower Manhattan,Sunday,14,1.1,normal
+Lower Manhattan,Sunday,14,1.0,normal
+Lower Manhattan,Sunday,15,1.0,normal
+Lower Manhattan,Sunday,15,1.0,normal
+Lower Manhattan,Sunday,15,1.1,normal
+Lower Manhattan,Sunday,15,1.1,normal
+Lower Manhattan,Sunday,16,1.0,normal
+Lower Manhattan,Sunday,16,1.1,normal
+Lower Manhattan,Sunday,16,1.1,normal
+Lower Manhattan,Sunday,16,1.1,normal
+Lower Manhattan,Sunday,17,1.1,normal
+Lower Manhattan,Sunday,17,1.0,normal
+Lower Manhattan,Sunday,17,1.1,normal
+Lower Manhattan,Sunday,17,1.0,normal
+Lower Manhattan,Sunday,18,1.25,normal
+Lower Manhattan,Sunday,18,1.25,normal
+Lower Manhattan,Sunday,18,1.25,normal
+Lower Manhattan,Sunday,18,1.25,normal
+Lower Manhattan,Thursday,6,1.15,normal
+Lower Manhattan,Thursday,6,1.15,normal
+Lower Manhattan,Thursday,7,1.15,normal
+Lower Manhattan,Thursday,7,1.25,normal
+Lower Manhattan,Thursday,7,1.15,normal
+Lower Manhattan,Thursday,7,1.1,normal
+Lower Manhattan,Thursday,8,1.25,normal
+Lower Manhattan,Thursday,8,1.25,peak
+Lower Manhattan,Thursday,8,1.25,peak
+Lower Manhattan,Thursday,8,1.1,normal
+Lower Manhattan,Thursday,9,1.25,peak
+Lower Manhattan,Thursday,9,1.15,normal
+Lower Manhattan,Thursday,9,1.25,peak
+Lower Manhattan,Thursday,9,1.1,normal
+Lower Manhattan,Thursday,10,0.8,normal
+Lower Manhattan,Thursday,10,0.9,normal
+Lower Manhattan,Thursday,10,0.8,normal
+Lower Manhattan,Thursday,10,0.8,normal
+Lower Manhattan,Thursday,11,1.15,normal
+Lower Manhattan,Thursday,11,1.25,normal
+Lower Manhattan,Thursday,11,1.15,normal
+Lower Manhattan,Thursday,11,1.15,normal
+Lower Manhattan,Thursday,12,1.15,normal
+Lower Manhattan,Thursday,12,1.15,normal
+Lower Manhattan,Thursday,12,1.15,normal
+Lower Manhattan,Thursday,12,1.25,normal
+Lower Manhattan,Thursday,13,1.25,normal
+Lower Manhattan,Thursday,13,1.25,normal
+Lower Manhattan,Thursday,13,1.15,normal
+Lower Manhattan,Thursday,13,1.15,normal
+Lower Manhattan,Thursday,14,1.1,normal
+Lower Manhattan,Thursday,14,1.15,normal
+Lower Manhattan,Thursday,14,1.15,normal
+Lower Manhattan,Thursday,14,1.15,normal
+Lower Manhattan,Thursday,15,1.15,normal
+Lower Manhattan,Thursday,15,1.15,normal
+Lower Manhattan,Thursday,15,1.15,normal
+Lower Manhattan,Thursday,15,1.15,normal
+Lower Manhattan,Thursday,16,1.25,normal
+Lower Manhattan,Thursday,16,1.15,normal
+Lower Manhattan,Thursday,16,1.25,normal
+Lower Manhattan,Thursday,16,1.15,normal
+Lower Manhattan,Thursday,17,1.25,normal
+Lower Manhattan,Thursday,17,1.15,normal
+Lower Manhattan,Thursday,17,1.25,normal
+Lower Manhattan,Thursday,17,1.25,normal
+Lower Manhattan,Thursday,18,1.25,normal
+Lower Manhattan,Thursday,18,1.25,normal
+Lower Manhattan,Thursday,18,1.25,normal
+Lower Manhattan,Thursday,18,1.25,normal
+Lower Manhattan,Thursday,19,1.25,peak
+Lower Manhattan,Thursday,20,1.25,peak
+Lower Manhattan,Tuesday,7,1.15,peak
+Lower Manhattan,Tuesday,7,1.15,peak
+Lower Manhattan,Tuesday,7,1.15,peak
+Lower Manhattan,Tuesday,7,1.15,peak
+Lower Manhattan,Tuesday,8,1.15,peak
+Lower Manhattan,Tuesday,8,1.25,peak
+Lower Manhattan,Tuesday,8,1.25,peak
+Lower Manhattan,Tuesday,8,1.15,peak
+Lower Manhattan,Tuesday,9,1.1,normal
+Lower Manhattan,Tuesday,9,1.25,peak
+Lower Manhattan,Tuesday,9,1.25,peak
+Lower Manhattan,Tuesday,9,1.25,peak
+Lower Manhattan,Tuesday,10,0.8,normal
+Lower Manhattan,Tuesday,10,0.8,normal
+Lower Manhattan,Tuesday,10,0.8,normal
+Lower Manhattan,Tuesday,10,0.8,normal
+Lower Manhattan,Tuesday,11,1.15,normal
+Lower Manhattan,Tuesday,11,1.1,normal
+Lower Manhattan,Tuesday,11,1.1,normal
+Lower Manhattan,Tuesday,11,1.1,normal
+Lower Manhattan,Tuesday,12,1.1,normal
+Lower Manhattan,Tuesday,12,1.0,normal
+Lower Manhattan,Tuesday,12,1.1,normal
+Lower Manhattan,Tuesday,12,1.15,normal
+Lower Manhattan,Tuesday,13,1.15,normal
+Lower Manhattan,Tuesday,13,1.15,normal
+Lower Manhattan,Tuesday,13,1.15,normal
+Lower Manhattan,Tuesday,13,1.15,normal
+Lower Manhattan,Tuesday,14,1.1,normal
+Lower Manhattan,Tuesday,14,1.1,normal
+Lower Manhattan,Tuesday,14,1.0,normal
+Lower Manhattan,Tuesday,14,1.1,normal
+Lower Manhattan,Tuesday,15,1.0,normal
+Lower Manhattan,Tuesday,15,1.1,normal
+Lower Manhattan,Tuesday,15,1.0,normal
+Lower Manhattan,Tuesday,15,1.1,normal
+Lower Manhattan,Tuesday,16,1.15,normal
+Lower Manhattan,Tuesday,16,1.15,normal
+Lower Manhattan,Tuesday,16,1.1,normal
+Lower Manhattan,Tuesday,16,1.1,normal
+Lower Manhattan,Tuesday,17,1.1,normal
+Lower Manhattan,Tuesday,17,1.1,normal
+Lower Manhattan,Tuesday,17,1.15,normal
+Lower Manhattan,Tuesday,17,1.1,normal
+Lower Manhattan,Tuesday,18,1.25,normal
+Lower Manhattan,Tuesday,18,1.25,normal
+Lower Manhattan,Tuesday,18,1.25,normal
+Lower Manhattan,Tuesday,18,1.25,normal
+Lower Manhattan,Wednesday,6,1.15,normal
+Lower Manhattan,Wednesday,7,1.15,normal
+Lower Manhattan,Wednesday,7,1.1,normal
+Lower Manhattan,Wednesday,7,1.15,normal
+Lower Manhattan,Wednesday,7,1.1,normal
+Lower Manhattan,Wednesday,8,1.15,normal
+Lower Manhattan,Wednesday,8,1.15,normal
+Lower Manhattan,Wednesday,8,1.25,normal
+Lower Manhattan,Wednesday,8,1.1,normal
+Lower Manhattan,Wednesday,9,1.15,normal
+Lower Manhattan,Wednesday,9,1.15,normal
+Lower Manhattan,Wednesday,9,1.25,peak
+Lower Manhattan,Wednesday,9,1.15,normal
+Lower Manhattan,Wednesday,10,0.8,normal
+Lower Manhattan,Wednesday,10,0.8,normal
+Lower Manhattan,Wednesday,10,0.8,normal
+Lower Manhattan,Wednesday,10,0.8,normal
+Lower Manhattan,Wednesday,11,1.15,normal
+Lower Manhattan,Wednesday,11,1.15,normal
+Lower Manhattan,Wednesday,11,1.15,normal
+Lower Manhattan,Wednesday,11,1.15,normal
+Lower Manhattan,Wednesday,12,1.15,normal
+Lower Manhattan,Wednesday,12,1.1,normal
+Lower Manhattan,Wednesday,12,1.15,normal
+Lower Manhattan,Wednesday,12,1.15,normal
+Lower Manhattan,Wednesday,13,1.1,normal
+Lower Manhattan,Wednesday,13,1.15,normal
+Lower Manhattan,Wednesday,13,1.25,normal
+Lower Manhattan,Wednesday,14,1.15,normal
+Lower Manhattan,Wednesday,14,1.1,normal
+Lower Manhattan,Wednesday,14,1.15,normal
+Lower Manhattan,Wednesday,15,1.15,normal
+Lower Manhattan,Wednesday,15,1.1,normal
+Lower Manhattan,Wednesday,15,1.15,normal
+Lower Manhattan,Wednesday,16,1.15,normal
+Lower Manhattan,Wednesday,16,1.1,normal
+Lower Manhattan,Wednesday,16,1.1,normal
+Lower Manhattan,Wednesday,17,1.15,normal
+Lower Manhattan,Wednesday,17,1.1,normal
+Lower Manhattan,Wednesday,17,1.15,normal
+Lower Manhattan,Wednesday,18,1.25,normal
+Lower Manhattan,Wednesday,18,1.25,normal
+Lower Manhattan,Wednesday,18,1.25,normal

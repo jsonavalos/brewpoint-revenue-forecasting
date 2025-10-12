@@ -1,0 +1,12 @@
+scope,store,model,r2_test,mae_test_$,rmse_test_$
+Global,,Linear (Ridge),0.27,,
+Global,,Linear (Ridge),0.15,,
+Global,,DecisionTree,-0.17,,
+Global,,DecisionTree,0.10,,
+Global,,RandomForest,0.26,,
+Global,,RandomForest,0.43,,
+Global,,HistGBR,0.22,,
+Global,,HistGBR,0.43,,
+Per-store,Astoria,HistGBR,0.25,$49.40,$70.57
+Per-store,Hell's Kitchen,HistGBR,0.38,$53.24,$84.02
+Per-store,Lower Manhattan,HistGBR,0.48,$49.79,$65.71

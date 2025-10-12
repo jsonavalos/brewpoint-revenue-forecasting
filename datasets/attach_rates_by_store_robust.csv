@@ -1,0 +1,244 @@
+store,antecedent,consequent,attach_rate,lift
+Astoria,Bakery,Bakery,0.0,0.0
+Astoria,Bakery,Branded,0.0,0.0
+Astoria,Bakery,Coffee,0.0,0.0
+Astoria,Bakery,Coffee beans,0.0,0.0
+Astoria,Bakery,Drinking Chocolate,0.0,0.0
+Astoria,Bakery,Flavours,0.0,0.0
+Astoria,Bakery,Loose Tea,0.0,0.0
+Astoria,Bakery,Packaged Chocolate,0.0,0.0
+Astoria,Bakery,Tea,0.0,0.0
+Astoria,Branded,Bakery,0.0,0.0
+Astoria,Branded,Branded,0.0,0.0
+Astoria,Branded,Coffee,0.0,0.0
+Astoria,Branded,Coffee beans,0.0,0.0
+Astoria,Branded,Drinking Chocolate,0.0,0.0
+Astoria,Branded,Flavours,0.0,0.0
+Astoria,Branded,Loose Tea,0.0,0.0
+Astoria,Branded,Packaged Chocolate,0.0,0.0
+Astoria,Branded,Tea,0.0,0.0
+Astoria,Coffee,Bakery,0.0,0.0
+Astoria,Coffee,Branded,0.0,0.0
+Astoria,Coffee,Coffee,0.0,0.0
+Astoria,Coffee,Coffee beans,0.0,0.0
+Astoria,Coffee,Drinking Chocolate,0.0,0.0
+Astoria,Coffee,Flavours,0.0,0.0
+Astoria,Coffee,Loose Tea,0.0,0.0
+Astoria,Coffee,Packaged Chocolate,0.0,0.0
+Astoria,Coffee,Tea,0.0,0.0
+Astoria,Coffee beans,Bakery,0.0,0.0
+Astoria,Coffee beans,Branded,0.0,0.0
+Astoria,Coffee beans,Coffee,0.0,0.0
+Astoria,Coffee beans,Coffee beans,0.0,0.0
+Astoria,Coffee beans,Drinking Chocolate,0.0,0.0
+Astoria,Coffee beans,Flavours,0.0,0.0
+Astoria,Coffee beans,Loose Tea,0.0,0.0
+Astoria,Coffee beans,Packaged Chocolate,0.0,0.0
+Astoria,Coffee beans,Tea,0.0,0.0
+Astoria,Drinking Chocolate,Bakery,0.0,0.0
+Astoria,Drinking Chocolate,Branded,0.0,0.0
+Astoria,Drinking Chocolate,Coffee,0.0,0.0
+Astoria,Drinking Chocolate,Coffee beans,0.0,0.0
+Astoria,Drinking Chocolate,Drinking Chocolate,0.0,0.0
+Astoria,Drinking Chocolate,Flavours,0.0,0.0
+Astoria,Drinking Chocolate,Loose Tea,0.0,0.0
+Astoria,Drinking Chocolate,Packaged Chocolate,0.0,0.0
+Astoria,Drinking Chocolate,Tea,0.0,0.0
+Astoria,Flavours,Bakery,0.0,0.0
+Astoria,Flavours,Branded,0.0,0.0
+Astoria,Flavours,Coffee,0.0,0.0
+Astoria,Flavours,Coffee beans,0.0,0.0
+Astoria,Flavours,Drinking Chocolate,0.0,0.0
+Astoria,Flavours,Flavours,0.0,0.0
+Astoria,Flavours,Loose Tea,0.0,0.0
+Astoria,Flavours,Packaged Chocolate,0.0,0.0
+Astoria,Flavours,Tea,0.0,0.0
+Astoria,Loose Tea,Bakery,0.0,0.0
+Astoria,Loose Tea,Branded,0.0,0.0
+Astoria,Loose Tea,Coffee,0.0,0.0
+Astoria,Loose Tea,Coffee beans,0.0,0.0
+Astoria,Loose Tea,Drinking Chocolate,0.0,0.0
+Astoria,Loose Tea,Flavours,0.0,0.0
+Astoria,Loose Tea,Loose Tea,0.0,0.0
+Astoria,Loose Tea,Packaged Chocolate,0.0,0.0
+Astoria,Loose Tea,Tea,0.0,0.0
+Astoria,Packaged Chocolate,Bakery,0.0,0.0
+Astoria,Packaged Chocolate,Branded,0.0,0.0
+Astoria,Packaged Chocolate,Coffee,0.0,0.0
+Astoria,Packaged Chocolate,Coffee beans,0.0,0.0
+Astoria,Packaged Chocolate,Drinking Chocolate,0.0,0.0
+Astoria,Packaged Chocolate,Flavours,0.0,0.0
+Astoria,Packaged Chocolate,Loose Tea,0.0,0.0
+Astoria,Packaged Chocolate,Packaged Chocolate,0.0,0.0
+Astoria,Packaged Chocolate,Tea,0.0,0.0
+Astoria,Tea,Bakery,0.0,0.0
+Astoria,Tea,Branded,0.0,0.0
+Astoria,Tea,Coffee,0.0,0.0
+Astoria,Tea,Coffee beans,0.0,0.0
+Astoria,Tea,Drinking Chocolate,0.0,0.0
+Astoria,Tea,Flavours,0.0,0.0
+Astoria,Tea,Loose Tea,0.0,0.0
+Astoria,Tea,Packaged Chocolate,0.0,0.0
+Astoria,Tea,Tea,0.0,0.0
+Hell's Kitchen,Bakery,Bakery,0.0,0.0
+Hell's Kitchen,Bakery,Branded,0.0,0.0
+Hell's Kitchen,Bakery,Coffee,0.0,0.0
+Hell's Kitchen,Bakery,Coffee beans,0.0,0.0
+Hell's Kitchen,Bakery,Drinking Chocolate,0.0,0.0
+Hell's Kitchen,Bakery,Flavours,0.0,0.0
+Hell's Kitchen,Bakery,Loose Tea,0.0,0.0
+Hell's Kitchen,Bakery,Packaged Chocolate,0.0,0.0
+Hell's Kitchen,Bakery,Tea,0.0,0.0
+Hell's Kitchen,Branded,Bakery,0.0,0.0
+Hell's Kitchen,Branded,Branded,0.0,0.0
+Hell's Kitchen,Branded,Coffee,0.0,0.0
+Hell's Kitchen,Branded,Coffee beans,0.0,0.0
+Hell's Kitchen,Branded,Drinking Chocolate,0.0,0.0
+Hell's Kitchen,Branded,Flavours,0.0,0.0
+Hell's Kitchen,Branded,Loose Tea,0.0,0.0
+Hell's Kitchen,Branded,Packaged Chocolate,0.0,0.0
+Hell's Kitchen,Branded,Tea,0.0,0.0
+Hell's Kitchen,Coffee,Bakery,0.0,0.0
+Hell's Kitchen,Coffee,Branded,0.0,0.0
+Hell's Kitchen,Coffee,Coffee,0.0,0.0
+Hell's Kitchen,Coffee,Coffee beans,0.0,0.0
+Hell's Kitchen,Coffee,Drinking Chocolate,0.0,0.0
+Hell's Kitchen,Coffee,Flavours,0.0,0.0
+Hell's Kitchen,Coffee,Loose Tea,0.0,0.0
+Hell's Kitchen,Coffee,Packaged Chocolate,0.0,0.0
+Hell's Kitchen,Coffee,Tea,0.0,0.0
+Hell's Kitchen,Coffee beans,Bakery,0.0,0.0
+Hell's Kitchen,Coffee beans,Branded,0.0,0.0
+Hell's Kitchen,Coffee beans,Coffee,0.0,0.0
+Hell's Kitchen,Coffee beans,Coffee beans,0.0,0.0
+Hell's Kitchen,Coffee beans,Drinking Chocolate,0.0,0.0
+Hell's Kitchen,Coffee beans,Flavours,0.0,0.0
+Hell's Kitchen,Coffee beans,Loose Tea,0.0,0.0
+Hell's Kitchen,Coffee beans,Packaged Chocolate,0.0,0.0
+Hell's Kitchen,Coffee beans,Tea,0.0,0.0
+Hell's Kitchen,Drinking Chocolate,Bakery,0.0,0.0
+Hell's Kitchen,Drinking Chocolate,Branded,0.0,0.0
+Hell's Kitchen,Drinking Chocolate,Coffee,0.0,0.0
+Hell's Kitchen,Drinking Chocolate,Coffee beans,0.0,0.0
+Hell's Kitchen,Drinking Chocolate,Drinking Chocolate,0.0,0.0
+Hell's Kitchen,Drinking Chocolate,Flavours,0.0,0.0
+Hell's Kitchen,Drinking Chocolate,Loose Tea,0.0,0.0
+Hell's Kitchen,Drinking Chocolate,Packaged Chocolate,0.0,0.0
+Hell's Kitchen,Drinking Chocolate,Tea,0.0,0.0
+Hell's Kitchen,Flavours,Bakery,0.0,0.0
+Hell's Kitchen,Flavours,Branded,0.0,0.0
+Hell's Kitchen,Flavours,Coffee,0.0,0.0
+Hell's Kitchen,Flavours,Coffee beans,0.0,0.0
+Hell's Kitchen,Flavours,Drinking Chocolate,0.0,0.0
+Hell's Kitchen,Flavours,Flavours,0.0,0.0
+Hell's Kitchen,Flavours,Loose Tea,0.0,0.0
+Hell's Kitchen,Flavours,Packaged Chocolate,0.0,0.0
+Hell's Kitchen,Flavours,Tea,0.0,0.0
+Hell's Kitchen,Loose Tea,Bakery,0.0,0.0
+Hell's Kitchen,Loose Tea,Branded,0.0,0.0
+Hell's Kitchen,Loose Tea,Coffee,0.0,0.0
+Hell's Kitchen,Loose Tea,Coffee beans,0.0,0.0
+Hell's Kitchen,Loose Tea,Drinking Chocolate,0.0,0.0
+Hell's Kitchen,Loose Tea,Flavours,0.0,0.0
+Hell's Kitchen,Loose Tea,Loose Tea,0.0,0.0
+Hell's Kitchen,Loose Tea,Packaged Chocolate,0.0,0.0
+Hell's Kitchen,Loose Tea,Tea,0.0,0.0
+Hell's Kitchen,Packaged Chocolate,Bakery,0.0,0.0
+Hell's Kitchen,Packaged Chocolate,Branded,0.0,0.0
+Hell's Kitchen,Packaged Chocolate,Coffee,0.0,0.0
+Hell's Kitchen,Packaged Chocolate,Coffee beans,0.0,0.0
+Hell's Kitchen,Packaged Chocolate,Drinking Chocolate,0.0,0.0
+Hell's Kitchen,Packaged Chocolate,Flavours,0.0,0.0
+Hell's Kitchen,Packaged Chocolate,Loose Tea,0.0,0.0
+Hell's Kitchen,Packaged Chocolate,Packaged Chocolate,0.0,0.0
+Hell's Kitchen,Packaged Chocolate,Tea,0.0,0.0
+Hell's Kitchen,Tea,Bakery,0.0,0.0
+Hell's Kitchen,Tea,Branded,0.0,0.0
+Hell's Kitchen,Tea,Coffee,0.0,0.0
+Hell's Kitchen,Tea,Coffee beans,0.0,0.0
+Hell's Kitchen,Tea,Drinking Chocolate,0.0,0.0
+Hell's Kitchen,Tea,Flavours,0.0,0.0
+Hell's Kitchen,Tea,Loose Tea,0.0,0.0
+Hell's Kitchen,Tea,Packaged Chocolate,0.0,0.0
+Hell's Kitchen,Tea,Tea,0.0,0.0
+Lower Manhattan,Bakery,Bakery,0.0,0.0
+Lower Manhattan,Bakery,Branded,0.0,0.0
+Lower Manhattan,Bakery,Coffee,0.0,0.0
+Lower Manhattan,Bakery,Coffee beans,0.0,0.0
+Lower Manhattan,Bakery,Drinking Chocolate,0.0,0.0
+Lower Manhattan,Bakery,Flavours,0.0,0.0
+Lower Manhattan,Bakery,Loose Tea,0.0,0.0
+Lower Manhattan,Bakery,Packaged Chocolate,0.0,0.0
+Lower Manhattan,Bakery,Tea,0.0,0.0
+Lower Manhattan,Branded,Bakery,0.0,0.0
+Lower Manhattan,Branded,Branded,0.0,0.0
+Lower Manhattan,Branded,Coffee,0.0,0.0
+Lower Manhattan,Branded,Coffee beans,0.0,0.0
+Lower Manhattan,Branded,Drinking Chocolate,0.0,0.0
+Lower Manhattan,Branded,Flavours,0.0,0.0
+Lower Manhattan,Branded,Loose Tea,0.0,0.0
+Lower Manhattan,Branded,Packaged Chocolate,0.0,0.0
+Lower Manhattan,Branded,Tea,0.0,0.0
+Lower Manhattan,Coffee,Bakery,0.0,0.0
+Lower Manhattan,Coffee,Branded,0.0,0.0
+Lower Manhattan,Coffee,Coffee,0.0,0.0
+Lower Manhattan,Coffee,Coffee beans,0.0,0.0
+Lower Manhattan,Coffee,Drinking Chocolate,0.0,0.0
+Lower Manhattan,Coffee,Flavours,0.0,0.0
+Lower Manhattan,Coffee,Loose Tea,0.0,0.0
+Lower Manhattan,Coffee,Packaged Chocolate,0.0,0.0
+Lower Manhattan,Coffee,Tea,0.0,0.0
+Lower Manhattan,Coffee beans,Bakery,0.0,0.0
+Lower Manhattan,Coffee beans,Branded,0.0,0.0
+Lower Manhattan,Coffee beans,Coffee,0.0,0.0
+Lower Manhattan,Coffee beans,Coffee beans,0.0,0.0
+Lower Manhattan,Coffee beans,Drinking Chocolate,0.0,0.0
+Lower Manhattan,Coffee beans,Flavours,0.0,0.0
+Lower Manhattan,Coffee beans,Loose Tea,0.0,0.0
+Lower Manhattan,Coffee beans,Packaged Chocolate,0.0,0.0
+Lower Manhattan,Coffee beans,Tea,0.0,0.0
+Lower Manhattan,Drinking Chocolate,Bakery,0.0,0.0
+Lower Manhattan,Drinking Chocolate,Branded,0.0,0.0
+Lower Manhattan,Drinking Chocolate,Coffee,0.0,0.0
+Lower Manhattan,Drinking Chocolate,Coffee beans,0.0,0.0
+Lower Manhattan,Drinking Chocolate,Drinking Chocolate,0.0,0.0
+Lower Manhattan,Drinking Chocolate,Flavours,0.0,0.0
+Lower Manhattan,Drinking Chocolate,Loose Tea,0.0,0.0
+Lower Manhattan,Drinking Chocolate,Packaged Chocolate,0.0,0.0
+Lower Manhattan,Drinking Chocolate,Tea,0.0,0.0
+Lower Manhattan,Flavours,Bakery,0.0,0.0
+Lower Manhattan,Flavours,Branded,0.0,0.0
+Lower Manhattan,Flavours,Coffee,0.0,0.0
+Lower Manhattan,Flavours,Coffee beans,0.0,0.0
+Lower Manhattan,Flavours,Drinking Chocolate,0.0,0.0
+Lower Manhattan,Flavours,Flavours,0.0,0.0
+Lower Manhattan,Flavours,Loose Tea,0.0,0.0
+Lower Manhattan,Flavours,Packaged Chocolate,0.0,0.0
+Lower Manhattan,Flavours,Tea,0.0,0.0
+Lower Manhattan,Loose Tea,Bakery,0.0,0.0
+Lower Manhattan,Loose Tea,Branded,0.0,0.0
+Lower Manhattan,Loose Tea,Coffee,0.0,0.0
+Lower Manhattan,Loose Tea,Coffee beans,0.0,0.0
+Lower Manhattan,Loose Tea,Drinking Chocolate,0.0,0.0
+Lower Manhattan,Loose Tea,Flavours,0.0,0.0
+Lower Manhattan,Loose Tea,Loose Tea,0.0,0.0
+Lower Manhattan,Loose Tea,Packaged Chocolate,0.0,0.0
+Lower Manhattan,Loose Tea,Tea,0.0,0.0
+Lower Manhattan,Packaged Chocolate,Bakery,0.0,0.0
+Lower Manhattan,Packaged Chocolate,Branded,0.0,0.0
+Lower Manhattan,Packaged Chocolate,Coffee,0.0,0.0
+Lower Manhattan,Packaged Chocolate,Coffee beans,0.0,0.0
+Lower Manhattan,Packaged Chocolate,Drinking Chocolate,0.0,0.0
+Lower Manhattan,Packaged Chocolate,Flavours,0.0,0.0
+Lower Manhattan,Packaged Chocolate,Loose Tea,0.0,0.0
+Lower Manhattan,Packaged Chocolate,Packaged Chocolate,0.0,0.0
+Lower Manhattan,Packaged Chocolate,Tea,0.0,0.0
+Lower Manhattan,Tea,Bakery,0.0,0.0
+Lower Manhattan,Tea,Branded,0.0,0.0
+Lower Manhattan,Tea,Coffee,0.0,0.0
+Lower Manhattan,Tea,Coffee beans,0.0,0.0
+Lower Manhattan,Tea,Drinking Chocolate,0.0,0.0
+Lower Manhattan,Tea,Flavours,0.0,0.0
+Lower Manhattan,Tea,Loose Tea,0.0,0.0
+Lower Manhattan,Tea,Packaged Chocolate,0.0,0.0
+Lower Manhattan,Tea,Tea,0.0,0.0

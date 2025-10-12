@@ -1,0 +1,244 @@
+store,antecedent,consequent,attach_rate,lift
+Astoria,Bakery,Branded,0.09375,1.0446428571428572
+Astoria,Bakery,Packaged Chocolate,0.03940217391304348,1.0244565217391304
+Astoria,Bakery,Coffee beans,0.15217391304347827,1.0232383808095953
+Astoria,Bakery,Flavours,0.358695652173913,1.0211044112980006
+Astoria,Bakery,Loose Tea,0.12092391304347826,1.0142005610098175
+Astoria,Bakery,Tea,1.0,1.0025706940874035
+Astoria,Bakery,Coffee,1.0,1.0
+Astoria,Bakery,Drinking Chocolate,0.8057065217391305,0.9943846312603193
+Astoria,Bakery,Bakery,0.0,0.0
+Astoria,Branded,Flavours,0.5142857142857142,1.4640250260688217
+Astoria,Branded,Coffee beans,0.17142857142857143,1.1527093596059113
+Astoria,Branded,Drinking Chocolate,0.8571428571428571,1.057866184448463
+Astoria,Branded,Bakery,0.9857142857142858,1.0446428571428572
+Astoria,Branded,Tea,1.0,1.0025706940874035
+Astoria,Branded,Coffee,1.0,1.0
+Astoria,Branded,Loose Tea,0.11428571428571428,0.9585253456221198
+Astoria,Branded,Packaged Chocolate,0.02857142857142857,0.7428571428571428
+Astoria,Branded,Branded,0.0,0.0
+Astoria,Coffee,Tea,0.9974358974358974,1.0
+Astoria,Coffee,Bakery,0.9435897435897436,1.0
+Astoria,Coffee,Drinking Chocolate,0.8102564102564103,1.0
+Astoria,Coffee,Flavours,0.35128205128205126,1.0
+Astoria,Coffee,Coffee beans,0.14871794871794872,1.0
+Astoria,Coffee,Loose Tea,0.11923076923076924,1.0
+Astoria,Coffee,Branded,0.08974358974358974,1.0
+Astoria,Coffee,Packaged Chocolate,0.038461538461538464,1.0
+Astoria,Coffee,Coffee,0.0,0.0
+Astoria,Coffee beans,Packaged Chocolate,0.06896551724137931,1.7931034482758619
+Astoria,Coffee beans,Flavours,0.5,1.4233576642335768
+Astoria,Coffee beans,Loose Tea,0.15517241379310345,1.3014460511679644
+Astoria,Coffee beans,Branded,0.10344827586206896,1.1527093596059113
+Astoria,Coffee beans,Drinking Chocolate,0.8706896551724138,1.0745853339153209
+Astoria,Coffee beans,Bakery,0.9655172413793104,1.0232383808095953
+Astoria,Coffee beans,Tea,1.0,1.0025706940874035
+Astoria,Coffee beans,Coffee,1.0,1.0
+Astoria,Coffee beans,Coffee beans,0.0,0.0
+Astoria,Drinking Chocolate,Coffee beans,0.15981012658227847,1.0745853339153209
+Astoria,Drinking Chocolate,Loose Tea,0.12658227848101267,1.0616578195181707
+Astoria,Drinking Chocolate,Branded,0.0949367088607595,1.057866184448463
+Astoria,Drinking Chocolate,Packaged Chocolate,0.03955696202531646,1.0284810126582278
+Astoria,Drinking Chocolate,Coffee,1.0,1.0
+Astoria,Drinking Chocolate,Flavours,0.3512658227848101,0.9999538020881457
+Astoria,Drinking Chocolate,Tea,0.9968354430379747,0.9993980020175067
+Astoria,Drinking Chocolate,Bakery,0.9382911392405063,0.9943846312603193
+Astoria,Drinking Chocolate,Drinking Chocolate,0.0,0.0
+Astoria,Flavours,Branded,0.13138686131386862,1.4640250260688217
+Astoria,Flavours,Coffee beans,0.2116788321167883,1.4233576642335766
+Astoria,Flavours,Packaged Chocolate,0.051094890510948905,1.3284671532846715
+Astoria,Flavours,Loose Tea,0.1386861313868613,1.1631740051801271
+Astoria,Flavours,Bakery,0.9635036496350365,1.0211044112980008
+Astoria,Flavours,Coffee,1.0,1.0
+Astoria,Flavours,Drinking Chocolate,0.8102189781021898,0.9999538020881457
+Astoria,Flavours,Tea,0.9963503649635036,0.9989116769556977
+Astoria,Flavours,Flavours,0.0,0.0
+Astoria,Loose Tea,Coffee beans,0.1935483870967742,1.3014460511679644
+Astoria,Loose Tea,Flavours,0.40860215053763443,1.1631740051801274
+Astoria,Loose Tea,Drinking Chocolate,0.8602150537634409,1.0616578195181707
+Astoria,Loose Tea,Bakery,0.956989247311828,1.0142005610098177
+Astoria,Loose Tea,Tea,1.0,1.0025706940874035
+Astoria,Loose Tea,Coffee,1.0,1.0
+Astoria,Loose Tea,Branded,0.08602150537634409,0.9585253456221199
+Astoria,Loose Tea,Packaged Chocolate,0.03225806451612903,0.8387096774193548
+Astoria,Loose Tea,Loose Tea,0.0,0.0
+Astoria,Packaged Chocolate,Coffee beans,0.26666666666666666,1.793103448275862
+Astoria,Packaged Chocolate,Flavours,0.4666666666666667,1.3284671532846717
+Astoria,Packaged Chocolate,Drinking Chocolate,0.8333333333333334,1.0284810126582278
+Astoria,Packaged Chocolate,Bakery,0.9666666666666667,1.0244565217391304
+Astoria,Packaged Chocolate,Tea,1.0,1.0025706940874035
+Astoria,Packaged Chocolate,Coffee,1.0,1.0
+Astoria,Packaged Chocolate,Loose Tea,0.1,0.8387096774193549
+Astoria,Packaged Chocolate,Branded,0.06666666666666667,0.7428571428571429
+Astoria,Packaged Chocolate,Packaged Chocolate,0.0,0.0
+Astoria,Tea,Bakery,0.9460154241645244,1.0025706940874037
+Astoria,Tea,Coffee beans,0.14910025706940874,1.0025706940874035
+Astoria,Tea,Loose Tea,0.11953727506426735,1.0025706940874035
+Astoria,Tea,Branded,0.08997429305912596,1.0025706940874035
+Astoria,Tea,Packaged Chocolate,0.038560411311053984,1.0025706940874035
+Astoria,Tea,Coffee,1.0,1.0
+Astoria,Tea,Drinking Chocolate,0.8097686375321337,0.9993980020175067
+Astoria,Tea,Flavours,0.3508997429305913,0.9989116769556979
+Astoria,Tea,Tea,0.0,0.0
+Hell's Kitchen,Bakery,Branded,0.04533333333333334,1.1190857142857145
+Hell's Kitchen,Bakery,Loose Tea,0.18133333333333335,1.0956083916083916
+Hell's Kitchen,Bakery,Coffee beans,0.24,1.0744041450777202
+Hell's Kitchen,Bakery,Packaged Chocolate,0.07066666666666667,1.071157894736842
+Hell's Kitchen,Bakery,Flavours,0.548,1.049827050997783
+Hell's Kitchen,Bakery,Drinking Chocolate,0.768,1.044963779527559
+Hell's Kitchen,Bakery,Tea,0.988,1.021090909090909
+Hell's Kitchen,Bakery,Coffee,0.996,1.0088440797186402
+Hell's Kitchen,Bakery,Bakery,0.0,0.0
+Hell's Kitchen,Branded,Coffee beans,0.3142857142857143,1.4069578090303478
+Hell's Kitchen,Branded,Drinking Chocolate,0.8571428571428571,1.166254218222722
+Hell's Kitchen,Branded,Bakery,0.9714285714285714,1.1190857142857142
+Hell's Kitchen,Branded,Flavours,0.5428571428571428,1.0399746594868546
+Hell's Kitchen,Branded,Loose Tea,0.17142857142857143,1.0357642357642356
+Hell's Kitchen,Branded,Tea,1.0,1.0334928229665072
+Hell's Kitchen,Branded,Coffee,1.0,1.0128956623681127
+Hell's Kitchen,Branded,Branded,0.0,0.0
+Hell's Kitchen,Branded,Packaged Chocolate,0.0,0.0
+Hell's Kitchen,Coffee,Flavours,0.5287221570926143,1.0128956623681127
+Hell's Kitchen,Coffee,Coffee beans,0.22626025791324736,1.0128956623681125
+Hell's Kitchen,Coffee,Branded,0.041031652989449004,1.0128956623681125
+Hell's Kitchen,Coffee,Bakery,0.8757327080890973,1.00884407971864
+Hell's Kitchen,Coffee,Drinking Chocolate,0.7409144196951934,1.008110328530153
+Hell's Kitchen,Coffee,Loose Tea,0.16647127784290738,1.0058124759179858
+Hell's Kitchen,Coffee,Tea,0.9683470105509965,1.0007796855455275
+Hell's Kitchen,Coffee,Packaged Chocolate,0.06565064478311841,0.9951255630283211
+Hell's Kitchen,Coffee,Coffee,0.0,0.0
+Hell's Kitchen,Coffee beans,Packaged Chocolate,0.09326424870466321,1.4136896645759476
+Hell's Kitchen,Coffee beans,Branded,0.05699481865284974,1.4069578090303478
+Hell's Kitchen,Coffee beans,Loose Tea,0.22279792746113988,1.3461357295554184
+Hell's Kitchen,Coffee beans,Flavours,0.6528497409326425,1.2506921866204062
+Hell's Kitchen,Coffee beans,Drinking Chocolate,0.8497409326424871,1.1561829382726123
+Hell's Kitchen,Coffee beans,Bakery,0.9326424870466321,1.0744041450777202
+Hell's Kitchen,Coffee beans,Tea,1.0,1.0334928229665072
+Hell's Kitchen,Coffee beans,Coffee,1.0,1.0128956623681127
+Hell's Kitchen,Coffee beans,Coffee beans,0.0,0.0
+Hell's Kitchen,Drinking Chocolate,Branded,0.047244094488188976,1.1662542182227222
+Hell's Kitchen,Drinking Chocolate,Coffee beans,0.25826771653543307,1.1561829382726123
+Hell's Kitchen,Drinking Chocolate,Packaged Chocolate,0.07401574803149606,1.1219229175300456
+Hell's Kitchen,Drinking Chocolate,Flavours,0.5590551181102362,1.0710058138519825
+Hell's Kitchen,Drinking Chocolate,Bakery,0.9070866141732283,1.044963779527559
+Hell's Kitchen,Drinking Chocolate,Loose Tea,0.17165354330708663,1.037123506414845
+Hell's Kitchen,Drinking Chocolate,Tea,0.9874015748031496,1.020472440944882
+Hell's Kitchen,Drinking Chocolate,Coffee,0.9952755905511811,1.008110328530153
+Hell's Kitchen,Drinking Chocolate,Drinking Chocolate,0.0,0.0
+Hell's Kitchen,Flavours,Packaged Chocolate,0.08869179600886919,1.3443809079239117
+Hell's Kitchen,Flavours,Loose Tea,0.2106430155210643,1.272696261609787
+Hell's Kitchen,Flavours,Coffee beans,0.2793791574279379,1.250692186620406
+Hell's Kitchen,Flavours,Drinking Chocolate,0.7871396895787139,1.0710058138519825
+Hell's Kitchen,Flavours,Bakery,0.9113082039911308,1.0498270509977827
+Hell's Kitchen,Flavours,Branded,0.04212860310421286,1.0399746594868546
+Hell's Kitchen,Flavours,Coffee,1.0,1.0128956623681127
+Hell's Kitchen,Flavours,Tea,0.9778270509977827,1.0105772393087131
+Hell's Kitchen,Flavours,Flavours,0.0,0.0
+Hell's Kitchen,Loose Tea,Packaged Chocolate,0.1048951048951049,1.589988958410011
+Hell's Kitchen,Loose Tea,Coffee beans,0.3006993006993007,1.3461357295554186
+Hell's Kitchen,Loose Tea,Flavours,0.6643356643356644,1.2726962616097872
+Hell's Kitchen,Loose Tea,Bakery,0.951048951048951,1.0956083916083916
+Hell's Kitchen,Loose Tea,Drinking Chocolate,0.7622377622377622,1.037123506414845
+Hell's Kitchen,Loose Tea,Branded,0.04195804195804196,1.0357642357642358
+Hell's Kitchen,Loose Tea,Tea,1.0,1.0334928229665072
+Hell's Kitchen,Loose Tea,Coffee,0.993006993006993,1.0058124759179858
+Hell's Kitchen,Loose Tea,Loose Tea,0.0,0.0
+Hell's Kitchen,Packaged Chocolate,Loose Tea,0.2631578947368421,1.5899889584100109
+Hell's Kitchen,Packaged Chocolate,Coffee beans,0.3157894736842105,1.4136896645759476
+Hell's Kitchen,Packaged Chocolate,Flavours,0.7017543859649122,1.3443809079239117
+Hell's Kitchen,Packaged Chocolate,Drinking Chocolate,0.8245614035087719,1.1219229175300456
+Hell's Kitchen,Packaged Chocolate,Bakery,0.9298245614035088,1.071157894736842
+Hell's Kitchen,Packaged Chocolate,Tea,1.0,1.0334928229665072
+Hell's Kitchen,Packaged Chocolate,Coffee,0.9824561403508771,0.9951255630283211
+Hell's Kitchen,Packaged Chocolate,Branded,0.0,0.0
+Hell's Kitchen,Packaged Chocolate,Packaged Chocolate,0.0,0.0
+Hell's Kitchen,Tea,Coffee beans,0.23086124401913877,1.0334928229665072
+Hell's Kitchen,Tea,Branded,0.041866028708133975,1.0334928229665072
+Hell's Kitchen,Tea,Loose Tea,0.17105263157894737,1.033492822966507
+Hell's Kitchen,Tea,Packaged Chocolate,0.06818181818181818,1.033492822966507
+Hell's Kitchen,Tea,Bakery,0.8863636363636364,1.021090909090909
+Hell's Kitchen,Tea,Drinking Chocolate,0.75,1.0204724409448818
+Hell's Kitchen,Tea,Flavours,0.527511961722488,1.0105772393087133
+Hell's Kitchen,Tea,Coffee,0.9880382775119617,1.0007796855455275
+Hell's Kitchen,Tea,Tea,0.0,0.0
+Lower Manhattan,Bakery,Coffee beans,0.2084507042253521,1.1008377059744086
+Lower Manhattan,Bakery,Packaged Chocolate,0.06901408450704226,1.0933996133664734
+Lower Manhattan,Bakery,Flavours,0.6859154929577465,1.0867053300193317
+Lower Manhattan,Bakery,Drinking Chocolate,0.7408450704225352,1.068933601609658
+Lower Manhattan,Bakery,Branded,0.13943661971830987,1.062875365399947
+Lower Manhattan,Bakery,Loose Tea,0.14929577464788732,1.0581665431183593
+Lower Manhattan,Bakery,Tea,0.9859154929577465,1.0345710627400768
+Lower Manhattan,Bakery,Coffee,0.9943661971830986,1.028742493372527
+Lower Manhattan,Bakery,Bakery,0.0,0.0
+Lower Manhattan,Branded,Coffee beans,0.3113207547169811,1.6440991490935997
+Lower Manhattan,Branded,Packaged Chocolate,0.08490566037735849,1.3451720310765816
+Lower Manhattan,Branded,Flavours,0.7547169811320755,1.1957084720680726
+Lower Manhattan,Branded,Drinking Chocolate,0.8207547169811321,1.1842318059299193
+Lower Manhattan,Branded,Loose Tea,0.16037735849056603,1.13670969877524
+Lower Manhattan,Branded,Bakery,0.9339622641509434,1.0628753653999468
+Lower Manhattan,Branded,Tea,0.9905660377358491,1.0394511149228132
+Lower Manhattan,Branded,Coffee,0.9905660377358491,1.0248109583746043
+Lower Manhattan,Branded,Branded,0.0,0.0
+Lower Manhattan,Coffee,Loose Tea,0.14596670934699105,1.034571062740077
+Lower Manhattan,Coffee,Flavours,0.6530089628681178,1.0345710627400768
+Lower Manhattan,Coffee,Packaged Chocolate,0.06530089628681178,1.0345710627400768
+Lower Manhattan,Coffee,Bakery,0.9039692701664532,1.028742493372527
+Lower Manhattan,Coffee,Coffee beans,0.1946222791293214,1.0278091603692268
+Lower Manhattan,Coffee,Drinking Chocolate,0.7106274007682458,1.025333821108469
+Lower Manhattan,Coffee,Branded,0.13444302176696543,1.0248109583746043
+Lower Manhattan,Coffee,Tea,0.9577464788732394,1.0050118895189317
+Lower Manhattan,Coffee,Coffee,0.0,0.0
+Lower Manhattan,Coffee beans,Branded,0.21568627450980393,1.6440991490935997
+Lower Manhattan,Coffee beans,Loose Tea,0.22875816993464052,1.6213736956771014
+Lower Manhattan,Coffee beans,Packaged Chocolate,0.09803921568627451,1.5532487504805843
+Lower Manhattan,Coffee beans,Flavours,0.8235294117647058,1.3047289504036907
+Lower Manhattan,Coffee beans,Drinking Chocolate,0.803921568627451,1.1599439775910365
+Lower Manhattan,Coffee beans,Bakery,0.9673202614379085,1.1008377059744086
+Lower Manhattan,Coffee beans,Tea,0.9934640522875817,1.0424921483745013
+Lower Manhattan,Coffee beans,Coffee,0.9934640522875817,1.0278091603692268
+Lower Manhattan,Coffee beans,Coffee beans,0.0,0.0
+Lower Manhattan,Drinking Chocolate,Packaged Chocolate,0.075,1.188235294117647
+Lower Manhattan,Drinking Chocolate,Branded,0.15535714285714286,1.184231805929919
+Lower Manhattan,Drinking Chocolate,Coffee beans,0.21964285714285714,1.1599439775910363
+Lower Manhattan,Drinking Chocolate,Loose Tea,0.15535714285714286,1.1011278195488723
+Lower Manhattan,Drinking Chocolate,Flavours,0.6803571428571429,1.0778991596638656
+Lower Manhattan,Drinking Chocolate,Bakery,0.9392857142857143,1.068933601609658
+Lower Manhattan,Drinking Chocolate,Coffee,0.9910714285714286,1.025333821108469
+Lower Manhattan,Drinking Chocolate,Tea,0.9767857142857143,1.024990723562152
+Lower Manhattan,Drinking Chocolate,Drinking Chocolate,0.0,0.0
+Lower Manhattan,Flavours,Coffee beans,0.24705882352941178,1.304728950403691
+Lower Manhattan,Flavours,Packaged Chocolate,0.0784313725490196,1.2425990003844676
+Lower Manhattan,Flavours,Branded,0.1568627450980392,1.1957084720680724
+Lower Manhattan,Flavours,Loose Tea,0.16470588235294117,1.167389060887513
+Lower Manhattan,Flavours,Bakery,0.9549019607843138,1.0867053300193317
+Lower Manhattan,Flavours,Drinking Chocolate,0.7470588235294118,1.0778991596638656
+Lower Manhattan,Flavours,Tea,0.9862745098039216,1.0349477973007386
+Lower Manhattan,Flavours,Coffee,1.0,1.0345710627400768
+Lower Manhattan,Flavours,Flavours,0.0,0.0
+Lower Manhattan,Loose Tea,Packaged Chocolate,0.12280701754385964,1.9456484348125214
+Lower Manhattan,Loose Tea,Coffee beans,0.30701754385964913,1.6213736956771012
+Lower Manhattan,Loose Tea,Flavours,0.7368421052631579,1.1673890608875128
+Lower Manhattan,Loose Tea,Branded,0.14912280701754385,1.1367096987752399
+Lower Manhattan,Loose Tea,Drinking Chocolate,0.7631578947368421,1.1011278195488723
+Lower Manhattan,Loose Tea,Bakery,0.9298245614035088,1.0581665431183593
+Lower Manhattan,Loose Tea,Tea,0.9912280701754386,1.0401458190931876
+Lower Manhattan,Loose Tea,Coffee,1.0,1.0345710627400768
+Lower Manhattan,Loose Tea,Loose Tea,0.0,0.0
+Lower Manhattan,Packaged Chocolate,Loose Tea,0.27450980392156865,1.9456484348125218
+Lower Manhattan,Packaged Chocolate,Coffee beans,0.29411764705882354,1.5532487504805845
+Lower Manhattan,Packaged Chocolate,Branded,0.17647058823529413,1.3451720310765816
+Lower Manhattan,Packaged Chocolate,Flavours,0.7843137254901961,1.2425990003844676
+Lower Manhattan,Packaged Chocolate,Drinking Chocolate,0.8235294117647058,1.188235294117647
+Lower Manhattan,Packaged Chocolate,Bakery,0.9607843137254902,1.0933996133664734
+Lower Manhattan,Packaged Chocolate,Coffee,1.0,1.0345710627400768
+Lower Manhattan,Packaged Chocolate,Tea,0.9803921568627451,1.0287751464222052
+Lower Manhattan,Packaged Chocolate,Packaged Chocolate,0.0,0.0
+Lower Manhattan,Tea,Coffee beans,0.1974025974025974,1.0424921483745013
+Lower Manhattan,Tea,Loose Tea,0.14675324675324675,1.0401458190931876
+Lower Manhattan,Tea,Branded,0.13636363636363635,1.039451114922813
+Lower Manhattan,Tea,Flavours,0.6532467532467533,1.0349477973007386
+Lower Manhattan,Tea,Bakery,0.9090909090909091,1.0345710627400768
+Lower Manhattan,Tea,Packaged Chocolate,0.06493506493506493,1.0287751464222052
+Lower Manhattan,Tea,Drinking Chocolate,0.7103896103896103,1.024990723562152
+Lower Manhattan,Tea,Coffee,0.9714285714285714,1.0050118895189317
+Lower Manhattan,Tea,Tea,0.0,0.0

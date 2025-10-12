@@ -1,0 +1,4 @@
+Store,Hours,Avg $/hr,Median $/hr,Std $/hr,P25 $/hr,P75 $/hr,Avg ticket $,Peak hour,Coffee,Tea,Bakery,Drinking Chocolate,Coffee beans,Branded
+Astoria,2195,105.76,91.15,68.28,57.72,136.0,4.59,10,38.6%,29.2%,11.5%,11.3%,4.4%,2.3%
+Hell's Kitchen,2410,98.13,75.05,81.35,47.4,119.55,4.66,10,38.6%,27.4%,11.6%,10.0%,7.9%,0.8%
+Lower Manhattan,2255,102.02,84.35,71.81,51.2,133.43,4.81,10,38.7%,27.8%,12.3%,9.8%,4.9%,2.7%

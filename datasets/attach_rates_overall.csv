@@ -1,0 +1,82 @@
+antecedent,consequent,attach_rate,lift
+Bakery,Bakery,0.0,0.0
+Bakery,Branded,0.0,0.0
+Bakery,Coffee,0.0,0.0
+Bakery,Coffee beans,0.0,0.0
+Bakery,Drinking Chocolate,0.0,0.0
+Bakery,Flavours,0.0,0.0
+Bakery,Loose Tea,0.0,0.0
+Bakery,Packaged Chocolate,0.0,0.0
+Bakery,Tea,0.0,0.0
+Branded,Bakery,0.0,0.0
+Branded,Branded,0.0,0.0
+Branded,Coffee,0.0,0.0
+Branded,Coffee beans,0.0,0.0
+Branded,Drinking Chocolate,0.0,0.0
+Branded,Flavours,0.0,0.0
+Branded,Loose Tea,0.0,0.0
+Branded,Packaged Chocolate,0.0,0.0
+Branded,Tea,0.0,0.0
+Coffee,Bakery,0.0,0.0
+Coffee,Branded,0.0,0.0
+Coffee,Coffee,0.0,0.0
+Coffee,Coffee beans,0.0,0.0
+Coffee,Drinking Chocolate,0.0,0.0
+Coffee,Flavours,0.0,0.0
+Coffee,Loose Tea,0.0,0.0
+Coffee,Packaged Chocolate,0.0,0.0
+Coffee,Tea,0.0,0.0
+Coffee beans,Bakery,0.0,0.0
+Coffee beans,Branded,0.0,0.0
+Coffee beans,Coffee,0.0,0.0
+Coffee beans,Coffee beans,0.0,0.0
+Coffee beans,Drinking Chocolate,0.0,0.0
+Coffee beans,Flavours,0.0,0.0
+Coffee beans,Loose Tea,0.0,0.0
+Coffee beans,Packaged Chocolate,0.0,0.0
+Coffee beans,Tea,0.0,0.0
+Drinking Chocolate,Bakery,0.0,0.0
+Drinking Chocolate,Branded,0.0,0.0
+Drinking Chocolate,Coffee,0.0,0.0
+Drinking Chocolate,Coffee beans,0.0,0.0
+Drinking Chocolate,Drinking Chocolate,0.0,0.0
+Drinking Chocolate,Flavours,0.0,0.0
+Drinking Chocolate,Loose Tea,0.0,0.0
+Drinking Chocolate,Packaged Chocolate,0.0,0.0
+Drinking Chocolate,Tea,0.0,0.0
+Flavours,Bakery,0.0,0.0
+Flavours,Branded,0.0,0.0
+Flavours,Coffee,0.0,0.0
+Flavours,Coffee beans,0.0,0.0
+Flavours,Drinking Chocolate,0.0,0.0
+Flavours,Flavours,0.0,0.0
+Flavours,Loose Tea,0.0,0.0
+Flavours,Packaged Chocolate,0.0,0.0
+Flavours,Tea,0.0,0.0
+Loose Tea,Bakery,0.0,0.0
+Loose Tea,Branded,0.0,0.0
+Loose Tea,Coffee,0.0,0.0
+Loose Tea,Coffee beans,0.0,0.0
+Loose Tea,Drinking Chocolate,0.0,0.0
+Loose Tea,Flavours,0.0,0.0
+Loose Tea,Loose Tea,0.0,0.0
+Loose Tea,Packaged Chocolate,0.0,0.0
+Loose Tea,Tea,0.0,0.0
+Packaged Chocolate,Bakery,0.0,0.0
+Packaged Chocolate,Branded,0.0,0.0
+Packaged Chocolate,Coffee,0.0,0.0
+Packaged Chocolate,Coffee beans,0.0,0.0
+Packaged Chocolate,Drinking Chocolate,0.0,0.0
+Packaged Chocolate,Flavours,0.0,0.0
+Packaged Chocolate,Loose Tea,0.0,0.0
+Packaged Chocolate,Packaged Chocolate,0.0,0.0
+Packaged Chocolate,Tea,0.0,0.0
+Tea,Bakery,0.0,0.0
+Tea,Branded,0.0,0.0
+Tea,Coffee,0.0,0.0
+Tea,Coffee beans,0.0,0.0
+Tea,Drinking Chocolate,0.0,0.0
+Tea,Flavours,0.0,0.0
+Tea,Loose Tea,0.0,0.0
+Tea,Packaged Chocolate,0.0,0.0
+Tea,Tea,0.0,0.0

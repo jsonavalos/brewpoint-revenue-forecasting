@@ -1,0 +1,7 @@
+store,model,R2_val,MAE_val_$,RMSE_val_$,R2_test,MAE_test_$,RMSE_test_$,MAE_test_orders
+Astoria,HistGBR,-0.06,66.95,81.13,0.25,49.4,70.57,10.54
+Astoria,Ridge,0.14,59.08,73.04,0.12,54.48,76.3,11.62
+Hell's Kitchen,HistGBR,0.37,56.98,76.71,0.38,53.24,84.02,11.36
+Hell's Kitchen,Ridge,0.3,56.86,80.71,0.15,59.2,98.82,12.63
+Lower Manhattan,HistGBR,0.52,43.37,56.43,0.48,49.79,65.71,10.62
+Lower Manhattan,Ridge,0.33,51.17,66.42,0.18,59.54,82.51,12.71

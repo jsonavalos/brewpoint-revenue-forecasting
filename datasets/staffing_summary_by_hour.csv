@@ -1,0 +1,44 @@
+store_location,hour,+1 barista,hold
+Astoria,7,0,22
+Astoria,8,0,24
+Astoria,9,1,23
+Astoria,10,0,24
+Astoria,11,2,24
+Astoria,12,2,24
+Astoria,13,2,24
+Astoria,14,2,24
+Astoria,15,1,25
+Astoria,16,0,26
+Astoria,17,2,24
+Astoria,18,4,23
+Astoria,19,5,21
+Hell's Kitchen,6,13,3
+Hell's Kitchen,7,9,7
+Hell's Kitchen,8,16,10
+Hell's Kitchen,9,17,10
+Hell's Kitchen,10,0,27
+Hell's Kitchen,11,0,27
+Hell's Kitchen,12,0,27
+Hell's Kitchen,13,0,27
+Hell's Kitchen,14,0,27
+Hell's Kitchen,15,0,27
+Hell's Kitchen,16,0,27
+Hell's Kitchen,17,0,27
+Hell's Kitchen,18,0,27
+Hell's Kitchen,19,0,27
+Hell's Kitchen,20,3,3
+Lower Manhattan,6,3,12
+Lower Manhattan,7,8,19
+Lower Manhattan,8,16,11
+Lower Manhattan,9,17,10
+Lower Manhattan,10,0,27
+Lower Manhattan,11,0,27
+Lower Manhattan,12,0,27
+Lower Manhattan,13,0,26
+Lower Manhattan,14,0,26
+Lower Manhattan,15,0,26
+Lower Manhattan,16,0,26
+Lower Manhattan,17,0,26
+Lower Manhattan,18,0,26
+Lower Manhattan,19,1,2
+Lower Manhattan,20,1,1

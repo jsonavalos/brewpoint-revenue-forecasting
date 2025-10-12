@@ -1,0 +1,46 @@
+store,feature,importance
+Astoria,hour_sin,0.22077774049335747
+Astoria,hour_revenue_lag_1_z,0.12064306252408671
+Astoria,hour_revenue_lag_24_z,0.11055134240405518
+Astoria,hour_cos,0.055822912493280016
+Astoria,product_type_freq_z,0.018034901236126777
+Astoria,hour_revenue_rolling_24h_mean_z,0.012331769138605952
+Astoria,product_detail_freq_z,0.010523850586770777
+Astoria,hour_revenue_lag_168_z,0.009321839003163445
+Astoria,transaction_qty_cap_z,0.0075808990198109934
+Astoria,unit_price_cap_z,0.004962625748590343
+Astoria,price_vs_cat_median_z,0.0031016322512375074
+Astoria,is_morning_peak,0.0019401119178540593
+Astoria,is_weekend,0.00037911269328364525
+Astoria,day_of_week_Thursday,0.0003315427525425574
+Astoria,day_of_week_Wednesday,1.749794296792562e-05
+Hell's Kitchen,hour_sin,0.4381638915361982
+Hell's Kitchen,hour_cos,0.07962711362057587
+Hell's Kitchen,is_morning_peak,0.05102248878442894
+Hell's Kitchen,hour_revenue_lag_1_z,0.048698656615246826
+Hell's Kitchen,product_detail_freq_z,0.023510362259250593
+Hell's Kitchen,hour_revenue_lag_24_z,0.019939217739324167
+Hell's Kitchen,price_vs_cat_median_z,0.009138035668385858
+Hell's Kitchen,hour_revenue_lag_168_z,0.0022146982641322865
+Hell's Kitchen,transaction_qty_cap_z,0.0015914408794993839
+Hell's Kitchen,unit_price_cap_z,0.0013564984369128451
+Hell's Kitchen,product_category_freq_z,0.00014732228625180532
+Hell's Kitchen,hour_revenue_rolling_24h_mean_z,0.0001407032709805911
+Hell's Kitchen,day_of_week_Thursday,9.628897498523692e-05
+Hell's Kitchen,store_location_freq_z,0.0
+Hell's Kitchen,hour_revenue_rolling_7d_mean_z,0.0
+Lower Manhattan,hour_sin,0.8308911087672028
+Lower Manhattan,hour_revenue_lag_1_z,0.031549741589591895
+Lower Manhattan,hour_cos,0.02624806152727175
+Lower Manhattan,hour_revenue_lag_24_z,0.02537324665537165
+Lower Manhattan,product_type_freq_z,0.0036929877286074443
+Lower Manhattan,product_detail_freq_z,0.0033196433932740966
+Lower Manhattan,hour_revenue_rolling_24h_mean_z,0.0011214174644229246
+Lower Manhattan,dow_sin,0.0011135399147884195
+Lower Manhattan,price_vs_cat_median_z,0.0007367041562655552
+Lower Manhattan,is_lunch_peak,0.0007056254959735608
+Lower Manhattan,unit_price_cap_z,0.00047609787175304505
+Lower Manhattan,is_morning_peak,0.00038391857003168274
+Lower Manhattan,product_category_freq_z,0.00027789236992757925
+Lower Manhattan,transaction_qty_cap_z,0.00023915627707510323
+Lower Manhattan,hour_revenue_rolling_7d_mean_z,0.0

@@ -1,0 +1,141 @@
+store_location,daypart,product_detail,units,revenue
+Astoria,07–10a,Ethiopia Sm,511,1124.2
+Astoria,07–10a,Dark chocolate Lg,491,2209.5
+Astoria,07–10a,Columbian Medium Roast Sm,485,970.0
+Astoria,07–10a,Earl Grey Rg,477,1192.5
+Astoria,07–10a,Jamaican Coffee River Rg,472,1463.2
+Astoria,07–10a,Peppermint Rg,464,1160.0
+Astoria,07–10a,Morning Sunrise Chai Lg,448,1792.0
+Astoria,07–10a,Spicy Eye Opener Chai Lg,439,1360.9
+Astoria,07–10a,Lemon Grass Rg,420,1050.0
+Astoria,07–10a,Cappuccino,419,1571.25
+Astoria,10a–2p,Dark chocolate Lg,570,2565.0
+Astoria,10a–2p,Latte,570,2137.5
+Astoria,10a–2p,Columbian Medium Roast Rg,544,1360.0
+Astoria,10a–2p,Earl Grey Rg,526,1315.0
+Astoria,10a–2p,Brazilian Rg,524,1572.0
+Astoria,10a–2p,Ethiopia Sm,520,1144.0
+Astoria,10a–2p,Brazilian Lg,517,1809.5
+Astoria,10a–2p,Latte Rg,517,2197.25
+Astoria,10a–2p,Our Old Time Diner Blend Lg,515,1545.0
+Astoria,10a–2p,Spicy Eye Opener Chai Lg,514,1593.4
+Astoria,2–5p,Jamaican Coffee River Lg,411,1541.25
+Astoria,2–5p,Our Old Time Diner Blend Sm,401,802.0
+Astoria,2–5p,Peppermint Rg,393,982.5
+Astoria,2–5p,Peppermint Lg,373,1119.0
+Astoria,2–5p,Spicy Eye Opener Chai Lg,361,1119.1000000000001
+Astoria,2–5p,Morning Sunrise Chai Lg,357,1428.0
+Astoria,2–5p,Columbian Medium Roast Rg,352,880.0
+Astoria,2–5p,Sustainably Grown Organic Lg,352,1672.0
+Astoria,2–5p,Traditional Blend Chai Rg,348,870.0
+Astoria,2–5p,Brazilian Rg,345,1035.0
+Astoria,5–9p,Dark chocolate Rg,422,1477.0
+Astoria,5–9p,Earl Grey Rg,405,1012.5
+Astoria,5–9p,Espresso shot,375,1125.0
+Astoria,5–9p,Serenity Green Tea Lg,362,1086.0
+Astoria,5–9p,Our Old Time Diner Blend Sm,358,716.0
+Astoria,5–9p,Sustainably Grown Organic Lg,356,1691.0
+Astoria,5–9p,Spicy Eye Opener Chai Rg,355,905.2499999999999
+Astoria,5–9p,Dark chocolate Lg,350,1575.0
+Astoria,5–9p,Morning Sunrise Chai Rg,346,865.0
+Astoria,5–9p,Sustainably Grown Organic Rg,343,1286.25
+Hell's Kitchen,07–10a,Ouro Brasileiro shot,594,1594.8
+Hell's Kitchen,07–10a,Latte,528,1980.0
+Hell's Kitchen,07–10a,Earl Grey Lg,517,1551.0
+Hell's Kitchen,07–10a,Serenity Green Tea Rg,505,1262.5
+Hell's Kitchen,07–10a,Cappuccino,504,1890.0
+Hell's Kitchen,07–10a,Our Old Time Diner Blend Sm,504,1008.0
+Hell's Kitchen,07–10a,Brazilian Sm,502,1104.4
+Hell's Kitchen,07–10a,Sustainably Grown Organic Lg,502,2384.5
+Hell's Kitchen,07–10a,English Breakfast Lg,501,1503.0
+Hell's Kitchen,07–10a,Ethiopia Rg,500,1500.0
+Hell's Kitchen,10a–2p,Ethiopia Lg,625,2187.5
+Hell's Kitchen,10a–2p,Ouro Brasileiro shot,595,1620.3
+Hell's Kitchen,10a–2p,Latte Rg,566,2405.5
+Hell's Kitchen,10a–2p,Espresso shot,526,1578.0
+Hell's Kitchen,10a–2p,Morning Sunrise Chai Rg,517,1292.5
+Hell's Kitchen,10a–2p,English Breakfast Lg,504,1512.0
+Hell's Kitchen,10a–2p,Peppermint Rg,497,1242.5
+Hell's Kitchen,10a–2p,Brazilian Sm,492,1082.4
+Hell's Kitchen,10a–2p,Our Old Time Diner Blend Sm,488,976.0
+Hell's Kitchen,10a–2p,Latte,478,1792.5
+Hell's Kitchen,2–5p,Serenity Green Tea Rg,305,762.5
+Hell's Kitchen,2–5p,Ouro Brasileiro shot,293,798.0
+Hell's Kitchen,2–5p,Lemon Grass Rg,284,710.0
+Hell's Kitchen,2–5p,Ethiopia Sm,283,622.6
+Hell's Kitchen,2–5p,Sustainably Grown Organic Lg,275,1306.25
+Hell's Kitchen,2–5p,Traditional Blend Chai Lg,273,819.0
+Hell's Kitchen,2–5p,Ethiopia Rg,269,807.0
+Hell's Kitchen,2–5p,Columbian Medium Roast Sm,263,526.0
+Hell's Kitchen,2–5p,Brazilian Rg,259,777.0
+Hell's Kitchen,2–5p,English Breakfast Rg,259,647.5
+Hell's Kitchen,5–9p,Traditional Blend Chai Rg,340,850.0
+Hell's Kitchen,5–9p,Ouro Brasileiro shot,339,957.6
+Hell's Kitchen,5–9p,Columbian Medium Roast Sm,317,634.0
+Hell's Kitchen,5–9p,Morning Sunrise Chai Lg,309,1236.0
+Hell's Kitchen,5–9p,English Breakfast Lg,308,924.0
+Hell's Kitchen,5–9p,Earl Grey Rg,299,747.5
+Hell's Kitchen,5–9p,Lemon Grass Lg,292,876.0
+Hell's Kitchen,5–9p,Morning Sunrise Chai Rg,289,722.5
+Hell's Kitchen,5–9p,Jamaican Coffee River Lg,286,1072.5
+Hell's Kitchen,5–9p,Our Old Time Diner Blend Rg,286,715.0
+Hell's Kitchen,Other,Serenity Green Tea Rg,68,170.0
+Hell's Kitchen,Other,Brazilian Lg,67,234.5
+Hell's Kitchen,Other,Ethiopia Sm,66,145.20000000000002
+Hell's Kitchen,Other,Lemon Grass Rg,64,160.0
+Hell's Kitchen,Other,Columbian Medium Roast Rg,63,157.5
+Hell's Kitchen,Other,Our Old Time Diner Blend Lg,61,183.0
+Hell's Kitchen,Other,Cappuccino Lg,58,246.5
+Hell's Kitchen,Other,Spicy Eye Opener Chai Lg,58,179.8
+Hell's Kitchen,Other,Traditional Blend Chai Rg,58,145.0
+Hell's Kitchen,Other,Columbian Medium Roast Sm,57,114.0
+Lower Manhattan,07–10a,Peppermint Lg,663,1989.0
+Lower Manhattan,07–10a,Lemon Grass Rg,612,1530.0
+Lower Manhattan,07–10a,Jamaican Coffee River Lg,595,2231.25
+Lower Manhattan,07–10a,Earl Grey Rg,593,1482.5
+Lower Manhattan,07–10a,Serenity Green Tea Rg,592,1480.0
+Lower Manhattan,07–10a,Jamaican Coffee River Sm,586,1435.7
+Lower Manhattan,07–10a,Peppermint Rg,570,1425.0
+Lower Manhattan,07–10a,Traditional Blend Chai Lg,567,1701.0
+Lower Manhattan,07–10a,Brazilian Rg,559,1677.0
+Lower Manhattan,07–10a,Latte Rg,545,2316.25
+Lower Manhattan,10a–2p,English Breakfast Rg,528,1320.0
+Lower Manhattan,10a–2p,Latte Rg,492,2091.0
+Lower Manhattan,10a–2p,Earl Grey Lg,484,1452.0
+Lower Manhattan,10a–2p,Brazilian Sm,477,1049.4
+Lower Manhattan,10a–2p,Peppermint Lg,472,1416.0
+Lower Manhattan,10a–2p,Morning Sunrise Chai Rg,470,1175.0
+Lower Manhattan,10a–2p,English Breakfast Lg,467,1401.0
+Lower Manhattan,10a–2p,Ethiopia Sm,460,1012.0000000000001
+Lower Manhattan,10a–2p,Columbian Medium Roast Rg,454,1135.0
+Lower Manhattan,10a–2p,Jamaican Coffee River Rg,451,1398.1000000000001
+Lower Manhattan,2–5p,Ethiopia Rg,371,1113.0
+Lower Manhattan,2–5p,Ethiopia Lg,370,1295.0
+Lower Manhattan,2–5p,Latte,353,1323.75
+Lower Manhattan,2–5p,Traditional Blend Chai Rg,349,872.5
+Lower Manhattan,2–5p,Ouro Brasileiro shot,321,889.2
+Lower Manhattan,2–5p,English Breakfast Rg,308,770.0
+Lower Manhattan,2–5p,Jamaican Coffee River Lg,304,1140.0
+Lower Manhattan,2–5p,Columbian Medium Roast Lg,301,903.0
+Lower Manhattan,2–5p,English Breakfast Lg,292,876.0
+Lower Manhattan,2–5p,Jamaican Coffee River Sm,287,703.1500000000001
+Lower Manhattan,5–9p,Latte Rg,188,799.0
+Lower Manhattan,5–9p,Ethiopia Sm,173,380.6
+Lower Manhattan,5–9p,Brazilian Lg,170,595.0
+Lower Manhattan,5–9p,Jamaican Coffee River Sm,166,406.70000000000005
+Lower Manhattan,5–9p,Our Old Time Diner Blend Rg,162,405.0
+Lower Manhattan,5–9p,Earl Grey Lg,158,474.0
+Lower Manhattan,5–9p,Earl Grey Rg,155,387.5
+Lower Manhattan,5–9p,Latte,155,581.25
+Lower Manhattan,5–9p,Lemon Grass Rg,152,380.0
+Lower Manhattan,5–9p,Spicy Eye Opener Chai Lg,150,465.0
+Lower Manhattan,Other,Sugar Free Vanilla syrup,172,137.60000000000002
+Lower Manhattan,Other,Dark chocolate Lg,146,657.0
+Lower Manhattan,Other,Columbian Medium Roast Rg,138,345.0
+Lower Manhattan,Other,Sustainably Grown Organic Lg,136,646.0
+Lower Manhattan,Other,Dark chocolate Rg,127,444.5
+Lower Manhattan,Other,Serenity Green Tea Lg,111,333.0
+Lower Manhattan,Other,Jamaican Coffee River Lg,108,405.0
+Lower Manhattan,Other,Peppermint Rg,108,270.0
+Lower Manhattan,Other,Brazilian Sm,102,224.4
+Lower Manhattan,Other,Earl Grey Lg,102,306.0

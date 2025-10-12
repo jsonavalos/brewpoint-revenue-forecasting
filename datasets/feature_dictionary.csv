@@ -1,0 +1,45 @@
+feature,time_available
+unit_price_cap_z,CHECK
+transaction_qty_cap_z,CHECK
+items_per_ticket_z,CHECK
+hour_revenue_lag_1_z,CHECK
+hour_revenue_lag_24_z,CHECK
+hour_revenue_lag_168_z,CHECK
+hour_revenue_rolling_24h_mean_z,CHECK
+hour_revenue_rolling_7d_mean_z,CHECK
+product_category_freq_z,CHECK
+product_type_freq_z,CHECK
+product_detail_freq_z,CHECK
+store_location_freq_z,CHECK
+price_vs_cat_median_z,CHECK
+hour_items_lag_1_z,CHECK
+hour_items_lag_24_z,CHECK
+hour_items_lag_168_z,CHECK
+spend_per_ticket_hour_lag_1_z,CHECK
+spend_per_ticket_hour_lag_24_z,CHECK
+spend_per_ticket_hour_lag_168_z,CHECK
+store_location_Hell's Kitchen,≤ t
+store_location_Lower Manhattan,≤ t
+day_of_week_Monday,≤ t
+day_of_week_Saturday,≤ t
+day_of_week_Sunday,≤ t
+day_of_week_Thursday,≤ t
+day_of_week_Tuesday,≤ t
+day_of_week_Wednesday,≤ t
+month_February,≤ t
+month_January,≤ t
+month_June,≤ t
+month_March,≤ t
+month_May,≤ t
+is_weekend,≤ t
+is_morning_peak,≤ t
+is_lunch_peak,≤ t
+hour_sin,≤ t
+hour_cos,≤ t
+dow_sin,≤ t
+dow_cos,≤ t
+is_holiday,≤ t
+store_location_Hell's Kitchen__hour_sin,≤ t
+store_location_Hell's Kitchen__hour_cos,≤ t
+store_location_Lower Manhattan__hour_sin,≤ t
+store_location_Lower Manhattan__hour_cos,≤ t

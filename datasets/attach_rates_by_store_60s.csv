@@ -1,0 +1,30 @@
+store,antecedent,consequent,attach_rate,lift
+Hell's Kitchen,Bakery,Drinking Chocolate,0.7272727272727273,1.1636363636363636
+Hell's Kitchen,Bakery,Flavours,0.7272727272727273,1.1636363636363636
+Hell's Kitchen,Bakery,Tea,0.9090909090909091,1.1188811188811187
+Hell's Kitchen,Bakery,Coffee,1.0,1.0666666666666667
+Hell's Kitchen,Bakery,Bakery,0.0,0.0
+Hell's Kitchen,Coffee,Bakery,0.7333333333333333,1.0666666666666667
+Hell's Kitchen,Coffee,Flavours,0.6666666666666666,1.0666666666666667
+Hell's Kitchen,Coffee,Tea,0.8,0.9846153846153847
+Hell's Kitchen,Coffee,Drinking Chocolate,0.6,0.96
+Hell's Kitchen,Coffee,Coffee,0.0,0.0
+Hell's Kitchen,Drinking Chocolate,Bakery,0.8,1.1636363636363638
+Hell's Kitchen,Drinking Chocolate,Tea,0.8,0.9846153846153847
+Hell's Kitchen,Drinking Chocolate,Coffee,0.9,0.9600000000000001
+Hell's Kitchen,Drinking Chocolate,Flavours,0.6,0.96
+Hell's Kitchen,Drinking Chocolate,Drinking Chocolate,0.0,0.0
+Hell's Kitchen,Flavours,Bakery,0.8,1.1636363636363638
+Hell's Kitchen,Flavours,Coffee,1.0,1.0666666666666667
+Hell's Kitchen,Flavours,Tea,0.8,0.9846153846153847
+Hell's Kitchen,Flavours,Drinking Chocolate,0.6,0.96
+Hell's Kitchen,Flavours,Flavours,0.0,0.0
+Hell's Kitchen,Tea,Bakery,0.7692307692307693,1.118881118881119
+Hell's Kitchen,Tea,Coffee,0.9230769230769231,0.9846153846153847
+Hell's Kitchen,Tea,Drinking Chocolate,0.6153846153846154,0.9846153846153847
+Hell's Kitchen,Tea,Flavours,0.6153846153846154,0.9846153846153847
+Hell's Kitchen,Tea,Tea,0.0,0.0
+Lower Manhattan,Coffee,Tea,0.37037037037037035,0.6518518518518518
+Lower Manhattan,Coffee,Coffee,0.0,0.0
+Lower Manhattan,Tea,Coffee,0.4,0.6518518518518519
+Lower Manhattan,Tea,Tea,0.0,0.0
