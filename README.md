@@ -141,8 +141,19 @@ This 2-hour rule dampens one-off spikes but stays responsive to true surges.
 
 ## 9) AI Assistance Disclosure
 
-We used **OpenAI ChatGPT (GPT-5 Thinking, Oct 2025)** to help draft narrative text, organize outlines, and generate/refactor Python helpers (e.g., plotting/table renderers and I/O).  
-**All outputs were reviewed, edited, and validated by the authors.**
+## AI Assistance
+
+- **Paper editing & flow:** Rewrote sections for clarity, added in-text citations, standardized terms (pressure, pars, attach/lift).
+- **Time-series setup:** Framed next-hour target (`hour_revenue_tplus1`), prevented leakage (lag/roll features; Train-only pipelines), and advised cyclical encodings + seasonal lags.
+- **Bootstrap & splitting:** Helped create a reproducible BOOTSTRAP step and a time-ordered 70/15/15 split with fixed cutoffs.
+- **Model strategy:** Baseline Ridge vs. per-store HGB; advised per-store winners based on validation.
+- **Tuning:** RandomizedSearchCV with PredefinedSplit; early stopping; refit on Train+Val; single Test score.
+- **Operationalization:** Defined pressure = forecast − baseline; ±1 barista rule (2-hour confirm), pars multipliers (hour×weekday), and attach/lift prompts with small nudges.
+- **Troubleshooting:** Fixed RandomizedSearch boolean-index error; harmonized global vs per-store comparison columns/units; added residuals and walk-forward QA tables.
+- **Slides & scripts:** Drafted 6-slide exec deck and 2-slide technical narrative; tied exhibits to `deliverables/Visuals/`.
+
+> **Disclosure:** We used OpenAI ChatGPT (GPT-5 Thinking, Oct 2025) for drafting, code scaffolding, and debugging. All outputs were reviewed, edited, and validated by the authors.
+
 
 **Citation options (APA):**
 ## References
