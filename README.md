@@ -15,44 +15,53 @@ Chronological split: **70% Train / 15% Validation / 15% Test** (no shuffling). F
 
 ## 2) Repository Structure
 
+## 2) Repository Structure
+
+```
 notebooks/
-ADS 505 Final Project.ipynb # main notebook
+└── ADS 505 Final Project.ipynb        # main notebook
 
 deliverables/
-Modeling/
-global_compare.csv
-model_compare_per_store.csv
-model_winners_per_store.csv
-tuning_table.csv
-walkforward_metrics.csv
-Explainability/
-driver_importance_per_store.csv
-Staffing/
-staffing_suggestions_by_hour.csv
-staffing_summary_by_hour.csv
-staffing_summary_by_day.csv
-staffing_schedule_blocks.csv
-staffing_summary_sensitivity.csv
-Inventory_Menu/
-top_sellers_by_store_daypart.csv
-attach_rates_category_pairs.csv
-size_mix_by_store.csv
-month_trend_by_item_store.csv
-expected_units_by_family.csv
-baseline_hourly_revenue_by_store.csv
-Visuals/
-heatmap_orders_<store>.png
-slide_tables/per_store_winners.png
-slide_tables/global_compare.png
-QA/
-feature_dictionary.csv
-residuals_by_hour.csv
-residuals_by_store.csv
+├── Modeling/
+│   ├── global_compare.csv
+│   ├── model_compare_per_store.csv
+│   ├── model_winners_per_store.csv
+│   ├── tuning_table.csv
+│   └── walkforward_metrics.csv
+│
+├── Explainability/
+│   └── driver_importance_per_store.csv
+│
+├── Staffing/
+│   ├── staffing_suggestions_by_hour.csv
+│   ├── staffing_summary_by_hour.csv
+│   ├── staffing_summary_by_day.csv
+│   ├── staffing_schedule_blocks.csv
+│   └── staffing_summary_sensitivity.csv
+│
+├── Inventory_Menu/
+│   ├── top_sellers_by_store_daypart.csv
+│   ├── attach_rates_category_pairs.csv
+│   ├── size_mix_by_store.csv
+│   ├── month_trend_by_item_store.csv
+│   ├── expected_units_by_family.csv
+│   └── baseline_hourly_revenue_by_store.csv
+│
+├── Visuals/
+│   ├── heatmap_orders_<store>.png
+│   └── slide_tables/
+│       ├── per_store_winners.png
+│       └── global_compare.png
+│
+└── QA/
+    ├── feature_dictionary.csv
+    ├── residuals_by_hour.csv
+    └── residuals_by_store.csv
 
-README.md # this file
+README.md                              # this file
+```
 
-
-> **Note:** `<store>` = Astoria, Hell’s Kitchen, Lower Manhattan.
+> **Note:** `<store>` = Astoria, Hell's Kitchen, Lower Manhattan.
 
 ---
 
